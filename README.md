@@ -107,7 +107,7 @@ PCcomponent/
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/coushid/PCcomponent.git
+git clone https://github.com/coushid/pc-component-builder.git
 cd PCcomponent
 ```
 
@@ -268,7 +268,7 @@ PCcomponent/
 ### Quick start
 
 ```bash
-git clone https://github.com/coushid/PCcomponent.git
+git clone https://github.com/coushid/pc-component-builder.git
 cd PCcomponent
 ```
 
