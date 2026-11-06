@@ -1,0 +1,6256 @@
+{
+  "version": 5,
+  "source": "Реальные серийные модели комплектующих; цены ориентировочные для российского рынка, каталог расширен по бюджетному, среднему и высокому сегментам.",
+  "components": [
+    {
+      "id": "amd-ryzen-5-7600",
+      "category": "CPU",
+      "name": "AMD Ryzen 5 7600",
+      "brand": "AMD",
+      "price": 18990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 65,
+      "description": "6-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "cores": 6,
+        "threads": 12
+      }
+    },
+    {
+      "id": "amd-ryzen-5-7600x",
+      "category": "CPU",
+      "name": "AMD Ryzen 5 7600X",
+      "brand": "AMD",
+      "price": 20990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 105,
+      "description": "6-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "cores": 6,
+        "threads": 12
+      }
+    },
+    {
+      "id": "amd-ryzen-7-7700",
+      "category": "CPU",
+      "name": "AMD Ryzen 7 7700",
+      "brand": "AMD",
+      "price": 27990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 65,
+      "description": "8-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "cores": 8,
+        "threads": 16
+      }
+    },
+    {
+      "id": "amd-ryzen-7-7700x",
+      "category": "CPU",
+      "name": "AMD Ryzen 7 7700X",
+      "brand": "AMD",
+      "price": 29990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 105,
+      "description": "8-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "cores": 8,
+        "threads": 16
+      }
+    },
+    {
+      "id": "amd-ryzen-7-7800x3d",
+      "category": "CPU",
+      "name": "AMD Ryzen 7 7800X3D",
+      "brand": "AMD",
+      "price": 44990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 120,
+      "description": "8-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "cores": 8,
+        "threads": 16
+      }
+    },
+    {
+      "id": "amd-ryzen-9-7900",
+      "category": "CPU",
+      "name": "AMD Ryzen 9 7900",
+      "brand": "AMD",
+      "price": 38990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 65,
+      "description": "12-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "cores": 12,
+        "threads": 24
+      }
+    },
+    {
+      "id": "amd-ryzen-9-7900x",
+      "category": "CPU",
+      "name": "AMD Ryzen 9 7900X",
+      "brand": "AMD",
+      "price": 41990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 170,
+      "description": "12-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "cores": 12,
+        "threads": 24
+      }
+    },
+    {
+      "id": "amd-ryzen-9-7950x",
+      "category": "CPU",
+      "name": "AMD Ryzen 9 7950X",
+      "brand": "AMD",
+      "price": 55990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 170,
+      "description": "16-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "cores": 16,
+        "threads": 32
+      }
+    },
+    {
+      "id": "amd-ryzen-5-9600x",
+      "category": "CPU",
+      "name": "AMD Ryzen 5 9600X",
+      "brand": "AMD",
+      "price": 29990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 65,
+      "description": "6-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "cores": 6,
+        "threads": 12
+      }
+    },
+    {
+      "id": "amd-ryzen-7-9700x",
+      "category": "CPU",
+      "name": "AMD Ryzen 7 9700X",
+      "brand": "AMD",
+      "price": 39990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 65,
+      "description": "8-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "cores": 8,
+        "threads": 16
+      }
+    },
+    {
+      "id": "amd-ryzen-7-9800x3d",
+      "category": "CPU",
+      "name": "AMD Ryzen 7 9800X3D",
+      "brand": "AMD",
+      "price": 59990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 120,
+      "description": "8-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "cores": 8,
+        "threads": 16
+      }
+    },
+    {
+      "id": "amd-ryzen-9-9900x",
+      "category": "CPU",
+      "name": "AMD Ryzen 9 9900X",
+      "brand": "AMD",
+      "price": 49990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 120,
+      "description": "12-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "cores": 12,
+        "threads": 24
+      }
+    },
+    {
+      "id": "amd-ryzen-9-9950x",
+      "category": "CPU",
+      "name": "AMD Ryzen 9 9950X",
+      "brand": "AMD",
+      "price": 64990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 170,
+      "description": "16-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "cores": 16,
+        "threads": 32
+      }
+    },
+    {
+      "id": "intel-core-ultra-5-225",
+      "category": "CPU",
+      "name": "Intel Core Ultra 5 225",
+      "brand": "Intel",
+      "price": 23990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 65,
+      "description": "10-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "cores": 10,
+        "threads": 10
+      }
+    },
+    {
+      "id": "intel-core-ultra-5-225f",
+      "category": "CPU",
+      "name": "Intel Core Ultra 5 225F",
+      "brand": "Intel",
+      "price": 21990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 65,
+      "description": "10-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "cores": 10,
+        "threads": 10
+      }
+    },
+    {
+      "id": "intel-core-ultra-5-235",
+      "category": "CPU",
+      "name": "Intel Core Ultra 5 235",
+      "brand": "Intel",
+      "price": 27990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 65,
+      "description": "14-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "cores": 14,
+        "threads": 14
+      }
+    },
+    {
+      "id": "intel-core-ultra-5-245k",
+      "category": "CPU",
+      "name": "Intel Core Ultra 5 245K",
+      "brand": "Intel",
+      "price": 34990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 125,
+      "description": "14-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "cores": 14,
+        "threads": 14
+      }
+    },
+    {
+      "id": "intel-core-ultra-5-245kf",
+      "category": "CPU",
+      "name": "Intel Core Ultra 5 245KF",
+      "brand": "Intel",
+      "price": 32990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 125,
+      "description": "14-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "cores": 14,
+        "threads": 14
+      }
+    },
+    {
+      "id": "intel-core-ultra-7-265",
+      "category": "CPU",
+      "name": "Intel Core Ultra 7 265",
+      "brand": "Intel",
+      "price": 39990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 65,
+      "description": "20-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "cores": 20,
+        "threads": 20
+      }
+    },
+    {
+      "id": "intel-core-ultra-7-265k",
+      "category": "CPU",
+      "name": "Intel Core Ultra 7 265K",
+      "brand": "Intel",
+      "price": 47990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 125,
+      "description": "20-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "cores": 20,
+        "threads": 20
+      }
+    },
+    {
+      "id": "intel-core-ultra-7-265kf",
+      "category": "CPU",
+      "name": "Intel Core Ultra 7 265KF",
+      "brand": "Intel",
+      "price": 45990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 125,
+      "description": "20-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "cores": 20,
+        "threads": 20
+      }
+    },
+    {
+      "id": "intel-core-ultra-9-285",
+      "category": "CPU",
+      "name": "Intel Core Ultra 9 285",
+      "brand": "Intel",
+      "price": 54990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 65,
+      "description": "24-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "cores": 24,
+        "threads": 24
+      }
+    },
+    {
+      "id": "intel-core-ultra-9-285k",
+      "category": "CPU",
+      "name": "Intel Core Ultra 9 285K",
+      "brand": "Intel",
+      "price": 64990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 125,
+      "description": "24-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "cores": 24,
+        "threads": 24
+      }
+    },
+    {
+      "id": "amd-ryzen-9-7950x3d",
+      "category": "CPU",
+      "name": "AMD Ryzen 9 7950X3D",
+      "brand": "AMD",
+      "price": 64990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 120,
+      "description": "16-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "cores": 16,
+        "threads": 32
+      }
+    },
+    {
+      "id": "amd-ryzen-7-8700g",
+      "category": "CPU",
+      "name": "AMD Ryzen 7 8700G",
+      "brand": "AMD",
+      "price": 29990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 65,
+      "description": "8-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "cores": 8,
+        "threads": 16
+      }
+    },
+    {
+      "id": "asus-tuf-b650-plus",
+      "category": "MOTHERBOARD",
+      "name": "TUF GAMING B650-PLUS",
+      "brand": "ASUS",
+      "price": 21990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата ATX для платформы AM5 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "chipset": "B650",
+        "formFactor": "ATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "asus-tuf-b650m-plus",
+      "category": "MOTHERBOARD",
+      "name": "TUF GAMING B650M-PLUS",
+      "brand": "ASUS",
+      "price": 19990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата mATX для платформы AM5 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "chipset": "B650",
+        "formFactor": "mATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "msi-mag-b650-tomahawk",
+      "category": "MOTHERBOARD",
+      "name": "MAG B650 TOMAHAWK WIFI",
+      "brand": "MSI",
+      "price": 22990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата ATX для платформы AM5 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "chipset": "B650",
+        "formFactor": "ATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "msi-pro-b650m-a",
+      "category": "MOTHERBOARD",
+      "name": "PRO B650M-A WIFI",
+      "brand": "MSI",
+      "price": 16990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата mATX для платформы AM5 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "chipset": "B650",
+        "formFactor": "mATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "gigabyte-b650-aorus-elite",
+      "category": "MOTHERBOARD",
+      "name": "B650 AORUS ELITE AX",
+      "brand": "Gigabyte",
+      "price": 23990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата ATX для платформы AM5 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "chipset": "B650",
+        "formFactor": "ATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "asrock-b650m-pro-rs",
+      "category": "MOTHERBOARD",
+      "name": "B650M Pro RS",
+      "brand": "ASRock",
+      "price": 14990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата mATX для платформы AM5 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "chipset": "B650",
+        "formFactor": "mATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "asus-rog-x670e-hero",
+      "category": "MOTHERBOARD",
+      "name": "ROG CROSSHAIR X670E HERO",
+      "brand": "ASUS",
+      "price": 55990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата ATX для платформы AM5 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "chipset": "X670E",
+        "formFactor": "ATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "msi-x670e-carbon",
+      "category": "MOTHERBOARD",
+      "name": "MPG X670E CARBON WIFI",
+      "brand": "MSI",
+      "price": 49990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата ATX для платформы AM5 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "chipset": "X670E",
+        "formFactor": "ATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "gigabyte-x670e-aorus-master",
+      "category": "MOTHERBOARD",
+      "name": "X670E AORUS MASTER",
+      "brand": "Gigabyte",
+      "price": 52990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата ATX для платформы AM5 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "chipset": "X670E",
+        "formFactor": "ATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "asrock-a620i-lightning",
+      "category": "MOTHERBOARD",
+      "name": "A620I Lightning WiFi",
+      "brand": "ASRock",
+      "price": 16990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата ITX для платформы AM5 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "chipset": "Mini-ITX",
+        "formFactor": "ITX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "asus-prime-a620m-k",
+      "category": "MOTHERBOARD",
+      "name": "PRIME A620M-K",
+      "brand": "ASUS",
+      "price": 10990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата mATX для платформы AM5 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "chipset": "A620",
+        "formFactor": "mATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "msi-pro-a620m-e",
+      "category": "MOTHERBOARD",
+      "name": "PRO A620M-E",
+      "brand": "MSI",
+      "price": 9990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата mATX для платформы AM5 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "chipset": "A620",
+        "formFactor": "mATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "gigabyte-b650m-ds3h",
+      "category": "MOTHERBOARD",
+      "name": "B650M DS3H",
+      "brand": "Gigabyte",
+      "price": 13990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата mATX для платформы AM5 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM5",
+        "chipset": "B650",
+        "formFactor": "mATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "asus-prime-z890-p",
+      "category": "MOTHERBOARD",
+      "name": "PRIME Z890-P WIFI",
+      "brand": "ASUS",
+      "price": 26990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата ATX для платформы LGA1851 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "chipset": "Z890",
+        "formFactor": "ATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "msi-mag-z890-tomahawk",
+      "category": "MOTHERBOARD",
+      "name": "MAG Z890 TOMAHAWK WIFI",
+      "brand": "MSI",
+      "price": 32990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата ATX для платформы LGA1851 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "chipset": "Z890",
+        "formFactor": "ATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "gigabyte-z890-aorus-elite",
+      "category": "MOTHERBOARD",
+      "name": "Z890 AORUS ELITE WIFI7",
+      "brand": "Gigabyte",
+      "price": 34990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата ATX для платформы LGA1851 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "chipset": "Z890",
+        "formFactor": "ATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "asrock-z890-pro-a",
+      "category": "MOTHERBOARD",
+      "name": "Z890 Pro-A",
+      "brand": "ASRock",
+      "price": 24990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата ATX для платформы LGA1851 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "chipset": "Z890",
+        "formFactor": "ATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "asus-tuf-gaming-b860-plus",
+      "category": "MOTHERBOARD",
+      "name": "TUF GAMING B860-PLUS WIFI",
+      "brand": "ASUS",
+      "price": 22990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата ATX для платформы LGA1851 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "chipset": "B860",
+        "formFactor": "ATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "msi-mag-b860-tomahawk",
+      "category": "MOTHERBOARD",
+      "name": "MAG B860 TOMAHAWK WIFI",
+      "brand": "MSI",
+      "price": 24990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата ATX для платформы LGA1851 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "chipset": "B860",
+        "formFactor": "ATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "gigabyte-b860m-aorus-elite",
+      "category": "MOTHERBOARD",
+      "name": "B860M AORUS ELITE WIFI6E",
+      "brand": "Gigabyte",
+      "price": 19990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата mATX для платформы LGA1851 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "chipset": "B860",
+        "formFactor": "mATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "asrock-b860m-pro-rs",
+      "category": "MOTHERBOARD",
+      "name": "B860M Pro RS",
+      "brand": "ASRock",
+      "price": 15990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата mATX для платформы LGA1851 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "chipset": "B860",
+        "formFactor": "mATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "asus-prime-b860m-a",
+      "category": "MOTHERBOARD",
+      "name": "PRIME B860M-A WIFI",
+      "brand": "ASUS",
+      "price": 16990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата mATX для платформы LGA1851 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "chipset": "B860",
+        "formFactor": "mATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "msi-pro-b860-p",
+      "category": "MOTHERBOARD",
+      "name": "PRO B860-P WIFI",
+      "brand": "MSI",
+      "price": 18990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата ATX для платформы LGA1851 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "chipset": "B860",
+        "formFactor": "ATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "asus-rog-maximus-z890-extreme",
+      "category": "MOTHERBOARD",
+      "name": "ROG MAXIMUS Z890 EXTREME",
+      "brand": "ASUS",
+      "price": 69990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата E-ATX для платформы LGA1851 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "chipset": "Z890",
+        "formFactor": "E-ATX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "gigabyte-z890i-aorus-ultra",
+      "category": "MOTHERBOARD",
+      "name": "Z890I AORUS ULTRA",
+      "brand": "Gigabyte",
+      "price": 29990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 35,
+      "description": "Материнская плата ITX для платформы LGA1851 с памятью DDR5.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1851",
+        "chipset": "Z890",
+        "formFactor": "ITX",
+        "memoryType": "DDR5",
+        "maxMemoryCapacityGb": 192,
+        "m2Slots": 2
+      }
+    },
+    {
+      "id": "nvidia-rtx-4060",
+      "category": "GPU",
+      "name": "GeForce RTX 4060 8GB",
+      "brand": "NVIDIA",
+      "price": 32990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 115,
+      "description": "Видеокарта с 8 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 8,
+        "lengthMm": 240,
+        "requiredGpuPowerConnectors": "8-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "nvidia-rtx-4060-ti-8",
+      "category": "GPU",
+      "name": "GeForce RTX 4060 Ti 8GB",
+      "brand": "NVIDIA",
+      "price": 42990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 160,
+      "description": "Видеокарта с 8 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 8,
+        "lengthMm": 240,
+        "requiredGpuPowerConnectors": "8-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "nvidia-rtx-4060-ti-16",
+      "category": "GPU",
+      "name": "GeForce RTX 4060 Ti 16GB",
+      "brand": "NVIDIA",
+      "price": 49990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 165,
+      "description": "Видеокарта с 16 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 16,
+        "lengthMm": 240,
+        "requiredGpuPowerConnectors": "8-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "nvidia-rtx-4070",
+      "category": "GPU",
+      "name": "GeForce RTX 4070",
+      "brand": "NVIDIA",
+      "price": 59990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 200,
+      "description": "Видеокарта с 12 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 12,
+        "lengthMm": 240,
+        "requiredGpuPowerConnectors": "8-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "nvidia-rtx-4070-super",
+      "category": "GPU",
+      "name": "GeForce RTX 4070 SUPER",
+      "brand": "NVIDIA",
+      "price": 69990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 220,
+      "description": "Видеокарта с 12 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 12,
+        "lengthMm": 250,
+        "requiredGpuPowerConnectors": "12VHPWR",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "nvidia-rtx-4070-ti-super",
+      "category": "GPU",
+      "name": "GeForce RTX 4070 Ti SUPER",
+      "brand": "NVIDIA",
+      "price": 84990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 285,
+      "description": "Видеокарта с 16 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 16,
+        "lengthMm": 305,
+        "requiredGpuPowerConnectors": "12VHPWR",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "nvidia-rtx-4080-super",
+      "category": "GPU",
+      "name": "GeForce RTX 4080 SUPER",
+      "brand": "NVIDIA",
+      "price": 109990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 320,
+      "description": "Видеокарта с 16 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 16,
+        "lengthMm": 310,
+        "requiredGpuPowerConnectors": "12VHPWR",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "nvidia-rtx-4090",
+      "category": "GPU",
+      "name": "GeForce RTX 4090",
+      "brand": "NVIDIA",
+      "price": 179990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 450,
+      "description": "Видеокарта с 24 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 24,
+        "lengthMm": 340,
+        "requiredGpuPowerConnectors": "12VHPWR",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "nvidia-rtx-5070",
+      "category": "GPU",
+      "name": "GeForce RTX 5070",
+      "brand": "NVIDIA",
+      "price": 64990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 250,
+      "description": "Видеокарта с 12 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 12,
+        "lengthMm": 300,
+        "requiredGpuPowerConnectors": "12V-2x6",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "nvidia-rtx-5070-ti",
+      "category": "GPU",
+      "name": "GeForce RTX 5070 Ti",
+      "brand": "NVIDIA",
+      "price": 89990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 300,
+      "description": "Видеокарта с 16 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 16,
+        "lengthMm": 330,
+        "requiredGpuPowerConnectors": "12V-2x6",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "nvidia-rtx-5080",
+      "category": "GPU",
+      "name": "GeForce RTX 5080",
+      "brand": "NVIDIA",
+      "price": 129990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 360,
+      "description": "Видеокарта с 16 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 16,
+        "lengthMm": 330,
+        "requiredGpuPowerConnectors": "12V-2x6",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "nvidia-rtx-5090",
+      "category": "GPU",
+      "name": "GeForce RTX 5090",
+      "brand": "NVIDIA",
+      "price": 249990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 575,
+      "description": "Видеокарта с 32 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 32,
+        "lengthMm": 340,
+        "requiredGpuPowerConnectors": "12V-2x6",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "amd-rx-7600",
+      "category": "GPU",
+      "name": "Radeon RX 7600",
+      "brand": "AMD",
+      "price": 29990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 165,
+      "description": "Видеокарта с 8 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 8,
+        "lengthMm": 240,
+        "requiredGpuPowerConnectors": "8-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "amd-rx-7600-xt",
+      "category": "GPU",
+      "name": "Radeon RX 7600 XT",
+      "brand": "AMD",
+      "price": 37990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 190,
+      "description": "Видеокарта с 16 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 16,
+        "lengthMm": 270,
+        "requiredGpuPowerConnectors": "2x8-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "amd-rx-7700-xt",
+      "category": "GPU",
+      "name": "Radeon RX 7700 XT",
+      "brand": "AMD",
+      "price": 49990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 245,
+      "description": "Видеокарта с 12 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 12,
+        "lengthMm": 320,
+        "requiredGpuPowerConnectors": "2x8-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "amd-rx-7800-xt",
+      "category": "GPU",
+      "name": "Radeon RX 7800 XT",
+      "brand": "AMD",
+      "price": 57990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 263,
+      "description": "Видеокарта с 16 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 16,
+        "lengthMm": 300,
+        "requiredGpuPowerConnectors": "2x8-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "amd-rx-7900-gre",
+      "category": "GPU",
+      "name": "Radeon RX 7900 GRE",
+      "brand": "AMD",
+      "price": 64990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 260,
+      "description": "Видеокарта с 16 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 16,
+        "lengthMm": 310,
+        "requiredGpuPowerConnectors": "2x8-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "amd-rx-7900-xt",
+      "category": "GPU",
+      "name": "Radeon RX 7900 XT",
+      "brand": "AMD",
+      "price": 84990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 315,
+      "description": "Видеокарта с 20 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 20,
+        "lengthMm": 330,
+        "requiredGpuPowerConnectors": "2x8-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "amd-rx-7900-xtx",
+      "category": "GPU",
+      "name": "Radeon RX 7900 XTX",
+      "brand": "AMD",
+      "price": 99990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 355,
+      "description": "Видеокарта с 24 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 24,
+        "lengthMm": 345,
+        "requiredGpuPowerConnectors": "3x8-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "amd-rx-9070",
+      "category": "GPU",
+      "name": "Radeon RX 9070",
+      "brand": "AMD",
+      "price": 69990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 220,
+      "description": "Видеокарта с 16 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 16,
+        "lengthMm": 320,
+        "requiredGpuPowerConnectors": "2x8-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "amd-rx-9070-xt",
+      "category": "GPU",
+      "name": "Radeon RX 9070 XT",
+      "brand": "AMD",
+      "price": 79990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 304,
+      "description": "Видеокарта с 16 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 16,
+        "lengthMm": 330,
+        "requiredGpuPowerConnectors": "2x8-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "intel-arc-b580",
+      "category": "GPU",
+      "name": "Intel Arc B580",
+      "brand": "Intel",
+      "price": 29990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 190,
+      "description": "Видеокарта с 12 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 12,
+        "lengthMm": 280,
+        "requiredGpuPowerConnectors": "8-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "intel-arc-b570",
+      "category": "GPU",
+      "name": "Intel Arc B570",
+      "brand": "Intel",
+      "price": 24990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 150,
+      "description": "Видеокарта с 10 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 10,
+        "lengthMm": 250,
+        "requiredGpuPowerConnectors": "8-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "nvidia-rtx-3050-8",
+      "category": "GPU",
+      "name": "GeForce RTX 3050 8GB",
+      "brand": "NVIDIA",
+      "price": 23990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 130,
+      "description": "Видеокарта с 8 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 8,
+        "lengthMm": 240,
+        "requiredGpuPowerConnectors": "8-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "amd-rx-6500-xt",
+      "category": "GPU",
+      "name": "Radeon RX 6500 XT",
+      "brand": "AMD",
+      "price": 19990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 107,
+      "description": "Видеокарта с 4 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 4,
+        "lengthMm": 200,
+        "requiredGpuPowerConnectors": "6-pin",
+        "interfaceType": "PCIe x16"
+      }
+    },
+    {
+      "id": "corsair-vengeance-ddr5-32-6000",
+      "category": "RAM",
+      "name": "Vengeance DDR5 32GB (2x16) 6000",
+      "brand": "Corsair",
+      "price": 10990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR5 на 32 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 32,
+        "memoryFrequencyMhz": 6000
+      }
+    },
+    {
+      "id": "gskill-flare-ddr5-32-6000",
+      "category": "RAM",
+      "name": "Flare X5 DDR5 32GB 6000",
+      "brand": "G.Skill",
+      "price": 9990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR5 на 32 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 32,
+        "memoryFrequencyMhz": 6000
+      }
+    },
+    {
+      "id": "kingston-fury-ddr5-32-6000",
+      "category": "RAM",
+      "name": "FURY Beast DDR5 32GB 6000",
+      "brand": "Kingston",
+      "price": 9490,
+      "performanceLevel": 4,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR5 на 32 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 32,
+        "memoryFrequencyMhz": 6000
+      }
+    },
+    {
+      "id": "corsair-vengeance-ddr5-64-6000",
+      "category": "RAM",
+      "name": "Vengeance DDR5 64GB (2x32) 6000",
+      "brand": "Corsair",
+      "price": 18990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR5 на 64 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 64,
+        "memoryFrequencyMhz": 6000
+      }
+    },
+    {
+      "id": "gskill-trident-ddr5-64-6400",
+      "category": "RAM",
+      "name": "Trident Z5 DDR5 64GB 6400",
+      "brand": "G.Skill",
+      "price": 21990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR5 на 64 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 64,
+        "memoryFrequencyMhz": 6400
+      }
+    },
+    {
+      "id": "kingston-fury-ddr5-64-5600",
+      "category": "RAM",
+      "name": "FURY Beast DDR5 64GB 5600",
+      "brand": "Kingston",
+      "price": 16990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR5 на 64 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 64,
+        "memoryFrequencyMhz": 5600
+      }
+    },
+    {
+      "id": "corsair-vengeance-ddr5-96-6000",
+      "category": "RAM",
+      "name": "Vengeance DDR5 96GB (2x48) 6000",
+      "brand": "Corsair",
+      "price": 24990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR5 на 96 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 96,
+        "memoryFrequencyMhz": 6000
+      }
+    },
+    {
+      "id": "gskill-ripjaws-ddr5-32-6000",
+      "category": "RAM",
+      "name": "Ripjaws S5 DDR5 32GB 6000",
+      "brand": "G.Skill",
+      "price": 9490,
+      "performanceLevel": 4,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR5 на 32 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 32,
+        "memoryFrequencyMhz": 6000
+      }
+    },
+    {
+      "id": "teamgroup-tcreate-ddr5-32",
+      "category": "RAM",
+      "name": "T-Create Expert DDR5 32GB 6000",
+      "brand": "TeamGroup",
+      "price": 8990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR5 на 32 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 32,
+        "memoryFrequencyMhz": 6000
+      }
+    },
+    {
+      "id": "patriot-viper-ddr5-32",
+      "category": "RAM",
+      "name": "Viper Venom DDR5 32GB 6000",
+      "brand": "Patriot",
+      "price": 8490,
+      "performanceLevel": 4,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR5 на 32 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 32,
+        "memoryFrequencyMhz": 6000
+      }
+    },
+    {
+      "id": "corsair-vengeance-ddr5-128",
+      "category": "RAM",
+      "name": "Vengeance DDR5 128GB (4x32) 5600",
+      "brand": "Corsair",
+      "price": 34990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR5 на 128 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 128,
+        "memoryFrequencyMhz": 5600
+      }
+    },
+    {
+      "id": "kingston-fury-ddr5-128",
+      "category": "RAM",
+      "name": "FURY Beast DDR5 128GB 5600",
+      "brand": "Kingston",
+      "price": 32990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR5 на 128 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 128,
+        "memoryFrequencyMhz": 5600
+      }
+    },
+    {
+      "id": "gskill-trident-ddr5-128",
+      "category": "RAM",
+      "name": "Trident Z5 DDR5 128GB 6000",
+      "brand": "G.Skill",
+      "price": 39990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR5 на 128 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 128,
+        "memoryFrequencyMhz": 6000
+      }
+    },
+    {
+      "id": "corsair-vengeance-ddr4-16",
+      "category": "RAM",
+      "name": "Vengeance LPX DDR4 16GB 3200",
+      "brand": "Corsair",
+      "price": 4490,
+      "performanceLevel": 2,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR4 на 16 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR4",
+        "memoryCapacityGb": 16,
+        "memoryFrequencyMhz": 3200
+      }
+    },
+    {
+      "id": "kingston-fury-ddr4-16",
+      "category": "RAM",
+      "name": "FURY Beast DDR4 16GB 3200",
+      "brand": "Kingston",
+      "price": 4290,
+      "performanceLevel": 2,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR4 на 16 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR4",
+        "memoryCapacityGb": 16,
+        "memoryFrequencyMhz": 3200
+      }
+    },
+    {
+      "id": "gskill-ripjaws-ddr4-16",
+      "category": "RAM",
+      "name": "Ripjaws V DDR4 16GB 3200",
+      "brand": "G.Skill",
+      "price": 4490,
+      "performanceLevel": 2,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR4 на 16 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR4",
+        "memoryCapacityGb": 16,
+        "memoryFrequencyMhz": 3200
+      }
+    },
+    {
+      "id": "corsair-vengeance-ddr4-32",
+      "category": "RAM",
+      "name": "Vengeance LPX DDR4 32GB 3200",
+      "brand": "Corsair",
+      "price": 7990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR4 на 32 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR4",
+        "memoryCapacityGb": 32,
+        "memoryFrequencyMhz": 3200
+      }
+    },
+    {
+      "id": "kingston-fury-ddr4-32",
+      "category": "RAM",
+      "name": "FURY Beast DDR4 32GB 3600",
+      "brand": "Kingston",
+      "price": 8490,
+      "performanceLevel": 3,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR4 на 32 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR4",
+        "memoryCapacityGb": 32,
+        "memoryFrequencyMhz": 3600
+      }
+    },
+    {
+      "id": "teamgroup-tforce-ddr4-32",
+      "category": "RAM",
+      "name": "T-Force Vulcan Z DDR4 32GB 3200",
+      "brand": "TeamGroup",
+      "price": 7490,
+      "performanceLevel": 3,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR4 на 32 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR4",
+        "memoryCapacityGb": 32,
+        "memoryFrequencyMhz": 3200
+      }
+    },
+    {
+      "id": "gskill-trident-ddr4-32",
+      "category": "RAM",
+      "name": "Trident Z RGB DDR4 32GB 3600",
+      "brand": "G.Skill",
+      "price": 9990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR4 на 32 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR4",
+        "memoryCapacityGb": 32,
+        "memoryFrequencyMhz": 3600
+      }
+    },
+    {
+      "id": "corsair-vengeance-ddr4-64",
+      "category": "RAM",
+      "name": "Vengeance LPX DDR4 64GB 3200",
+      "brand": "Corsair",
+      "price": 13990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR4 на 64 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR4",
+        "memoryCapacityGb": 64,
+        "memoryFrequencyMhz": 3200
+      }
+    },
+    {
+      "id": "kingston-fury-ddr4-64",
+      "category": "RAM",
+      "name": "FURY Beast DDR4 64GB 3200",
+      "brand": "Kingston",
+      "price": 12990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR4 на 64 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR4",
+        "memoryCapacityGb": 64,
+        "memoryFrequencyMhz": 3200
+      }
+    },
+    {
+      "id": "gskill-ripjaws-ddr4-64",
+      "category": "RAM",
+      "name": "Ripjaws V DDR4 64GB 3600",
+      "brand": "G.Skill",
+      "price": 14990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR4 на 64 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR4",
+        "memoryCapacityGb": 64,
+        "memoryFrequencyMhz": 3600
+      }
+    },
+    {
+      "id": "patriot-viper-ddr4-16",
+      "category": "RAM",
+      "name": "Viper Steel DDR4 16GB 3200",
+      "brand": "Patriot",
+      "price": 3990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR4 на 16 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR4",
+        "memoryCapacityGb": 16,
+        "memoryFrequencyMhz": 3200
+      }
+    },
+    {
+      "id": "crucial-pro-ddr5-32",
+      "category": "RAM",
+      "name": "Pro DDR5 32GB 6000",
+      "brand": "Crucial",
+      "price": 8990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 8,
+      "description": "Комплект DDR5 на 32 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 32,
+        "memoryFrequencyMhz": 6000
+      }
+    },
+    {
+      "id": "samsung-990-pro-1tb",
+      "category": "STORAGE",
+      "name": "990 PRO 1TB",
+      "brand": "Samsung",
+      "price": 11990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 7,
+      "description": "Накопитель M.2 NVMe PCIe 4.0 на 1 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 4.0",
+        "capacityGb": 1000,
+        "pcieGeneration": "4.0"
+      }
+    },
+    {
+      "id": "samsung-990-pro-2tb",
+      "category": "STORAGE",
+      "name": "990 PRO 2TB",
+      "brand": "Samsung",
+      "price": 19990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 8,
+      "description": "Накопитель M.2 NVMe PCIe 4.0 на 2 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 4.0",
+        "capacityGb": 2000,
+        "pcieGeneration": "4.0"
+      }
+    },
+    {
+      "id": "samsung-990-evo-1tb",
+      "category": "STORAGE",
+      "name": "990 EVO 1TB",
+      "brand": "Samsung",
+      "price": 9990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 6,
+      "description": "Накопитель M.2 NVMe PCIe 4.0 на 1 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 4.0",
+        "capacityGb": 1000,
+        "pcieGeneration": "4.0"
+      }
+    },
+    {
+      "id": "wd-black-sn850x-1tb",
+      "category": "STORAGE",
+      "name": "WD_BLACK SN850X 1TB",
+      "brand": "WD",
+      "price": 10990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 7,
+      "description": "Накопитель M.2 NVMe PCIe 4.0 на 1 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 4.0",
+        "capacityGb": 1000,
+        "pcieGeneration": "4.0"
+      }
+    },
+    {
+      "id": "wd-black-sn850x-2tb",
+      "category": "STORAGE",
+      "name": "WD_BLACK SN850X 2TB",
+      "brand": "WD",
+      "price": 18990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 8,
+      "description": "Накопитель M.2 NVMe PCIe 4.0 на 2 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 4.0",
+        "capacityGb": 2000,
+        "pcieGeneration": "4.0"
+      }
+    },
+    {
+      "id": "wd-blue-sn580-1tb",
+      "category": "STORAGE",
+      "name": "WD Blue SN580 1TB",
+      "brand": "WD",
+      "price": 7990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 5,
+      "description": "Накопитель M.2 NVMe PCIe 4.0 на 1 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 4.0",
+        "capacityGb": 1000,
+        "pcieGeneration": "4.0"
+      }
+    },
+    {
+      "id": "crucial-t500-1tb",
+      "category": "STORAGE",
+      "name": "T500 1TB",
+      "brand": "Crucial",
+      "price": 9990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 7,
+      "description": "Накопитель M.2 NVMe PCIe 4.0 на 1 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 4.0",
+        "capacityGb": 1000,
+        "pcieGeneration": "4.0"
+      }
+    },
+    {
+      "id": "crucial-p3-plus-2tb",
+      "category": "STORAGE",
+      "name": "P3 Plus 2TB",
+      "brand": "Crucial",
+      "price": 11990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 6,
+      "description": "Накопитель M.2 NVMe PCIe 4.0 на 2 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 4.0",
+        "capacityGb": 2000,
+        "pcieGeneration": "4.0"
+      }
+    },
+    {
+      "id": "kingston-kc3000-1tb",
+      "category": "STORAGE",
+      "name": "KC3000 1TB",
+      "brand": "Kingston",
+      "price": 8990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 7,
+      "description": "Накопитель M.2 NVMe PCIe 4.0 на 1 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 4.0",
+        "capacityGb": 1000,
+        "pcieGeneration": "4.0"
+      }
+    },
+    {
+      "id": "kingston-nv3-1tb",
+      "category": "STORAGE",
+      "name": "NV3 1TB",
+      "brand": "Kingston",
+      "price": 6990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 5,
+      "description": "Накопитель M.2 NVMe PCIe 4.0 на 1 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 4.0",
+        "capacityGb": 1000,
+        "pcieGeneration": "4.0"
+      }
+    },
+    {
+      "id": "solidigm-p44-pro-1tb",
+      "category": "STORAGE",
+      "name": "P44 Pro 1TB",
+      "brand": "Solidigm",
+      "price": 9990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 6,
+      "description": "Накопитель M.2 NVMe PCIe 4.0 на 1 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 4.0",
+        "capacityGb": 1000,
+        "pcieGeneration": "4.0"
+      }
+    },
+    {
+      "id": "lexar-nm790-2tb",
+      "category": "STORAGE",
+      "name": "NM790 2TB",
+      "brand": "Lexar",
+      "price": 13990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 7,
+      "description": "Накопитель M.2 NVMe PCIe 4.0 на 2 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 4.0",
+        "capacityGb": 2000,
+        "pcieGeneration": "4.0"
+      }
+    },
+    {
+      "id": "seagate-firecuda-530-2tb",
+      "category": "STORAGE",
+      "name": "FireCuda 530 2TB",
+      "brand": "Seagate",
+      "price": 21990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 8,
+      "description": "Накопитель M.2 NVMe PCIe 4.0 на 2 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 4.0",
+        "capacityGb": 2000,
+        "pcieGeneration": "4.0"
+      }
+    },
+    {
+      "id": "samsung-870-evo-1tb",
+      "category": "STORAGE",
+      "name": "870 EVO 1TB",
+      "brand": "Samsung",
+      "price": 8990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 4,
+      "description": "Накопитель SATA III на 1 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "SATA III",
+        "capacityGb": 1000,
+        "pcieGeneration": null
+      }
+    },
+    {
+      "id": "samsung-870-qvo-2tb",
+      "category": "STORAGE",
+      "name": "870 QVO 2TB",
+      "brand": "Samsung",
+      "price": 11990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 4,
+      "description": "Накопитель SATA III на 2 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "SATA III",
+        "capacityGb": 2000,
+        "pcieGeneration": null
+      }
+    },
+    {
+      "id": "crucial-mx500-1tb",
+      "category": "STORAGE",
+      "name": "MX500 1TB",
+      "brand": "Crucial",
+      "price": 7990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 4,
+      "description": "Накопитель SATA III на 1 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "SATA III",
+        "capacityGb": 1000,
+        "pcieGeneration": null
+      }
+    },
+    {
+      "id": "wd-blue-sa510-1tb",
+      "category": "STORAGE",
+      "name": "Blue SA510 1TB",
+      "brand": "WD",
+      "price": 7490,
+      "performanceLevel": 3,
+      "powerConsumptionW": 4,
+      "description": "Накопитель SATA III на 1 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "SATA III",
+        "capacityGb": 1000,
+        "pcieGeneration": null
+      }
+    },
+    {
+      "id": "kingston-a400-960gb",
+      "category": "STORAGE",
+      "name": "A400 960GB",
+      "brand": "Kingston",
+      "price": 5990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 3,
+      "description": "Накопитель SATA III на 960 ГБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "SATA III",
+        "capacityGb": 960,
+        "pcieGeneration": null
+      }
+    },
+    {
+      "id": "seagate-barracuda-2tb",
+      "category": "STORAGE",
+      "name": "BarraCuda 2TB",
+      "brand": "Seagate",
+      "price": 6490,
+      "performanceLevel": 2,
+      "powerConsumptionW": 3,
+      "description": "Накопитель SATA III на 2 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "SATA III",
+        "capacityGb": 2000,
+        "pcieGeneration": null
+      }
+    },
+    {
+      "id": "wd-blue-4tb",
+      "category": "STORAGE",
+      "name": "Blue 4TB",
+      "brand": "WD",
+      "price": 9990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 3,
+      "description": "Накопитель SATA III на 4 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "SATA III",
+        "capacityGb": 4000,
+        "pcieGeneration": null
+      }
+    },
+    {
+      "id": "seagate-ironwolf-4tb",
+      "category": "STORAGE",
+      "name": "IronWolf 4TB",
+      "brand": "Seagate",
+      "price": 13990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 3,
+      "description": "Накопитель SATA III на 4 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "SATA III",
+        "capacityGb": 4000,
+        "pcieGeneration": null
+      }
+    },
+    {
+      "id": "samsung-990-pro-4tb",
+      "category": "STORAGE",
+      "name": "990 PRO 4TB",
+      "brand": "Samsung",
+      "price": 35990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 9,
+      "description": "Накопитель M.2 NVMe PCIe 4.0 на 4 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 4.0",
+        "capacityGb": 4000,
+        "pcieGeneration": "4.0"
+      }
+    },
+    {
+      "id": "wd-black-sn850x-4tb",
+      "category": "STORAGE",
+      "name": "WD_BLACK SN850X 4TB",
+      "brand": "WD",
+      "price": 32990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 9,
+      "description": "Накопитель M.2 NVMe PCIe 4.0 на 4 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 4.0",
+        "capacityGb": 4000,
+        "pcieGeneration": "4.0"
+      }
+    },
+    {
+      "id": "crucial-t705-2tb",
+      "category": "STORAGE",
+      "name": "T705 2TB",
+      "brand": "Crucial",
+      "price": 29990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 11,
+      "description": "Накопитель M.2 NVMe PCIe 5.0 на 2 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 5.0",
+        "capacityGb": 2000,
+        "pcieGeneration": "5.0"
+      }
+    },
+    {
+      "id": "kingston-fury-renegade-2tb",
+      "category": "STORAGE",
+      "name": "FURY Renegade 2TB",
+      "brand": "Kingston",
+      "price": 19990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 8,
+      "description": "Накопитель M.2 NVMe PCIe 4.0 на 2 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "interfaceType": "M.2 NVMe PCIe 4.0",
+        "capacityGb": 2000,
+        "pcieGeneration": "4.0"
+      }
+    },
+    {
+      "id": "corsair-rm650e",
+      "category": "POWER_SUPPLY",
+      "name": "RM650e",
+      "brand": "Corsair",
+      "price": 10990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 650 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 650,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "8-pin"
+      }
+    },
+    {
+      "id": "corsair-rm750e",
+      "category": "POWER_SUPPLY",
+      "name": "RM750e",
+      "brand": "Corsair",
+      "price": 12990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 750 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 750,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "8-pin"
+      }
+    },
+    {
+      "id": "corsair-rm850x",
+      "category": "POWER_SUPPLY",
+      "name": "RM850x",
+      "brand": "Corsair",
+      "price": 16990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 850 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 850,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "8-pin"
+      }
+    },
+    {
+      "id": "corsair-rm1000x",
+      "category": "POWER_SUPPLY",
+      "name": "RM1000x",
+      "brand": "Corsair",
+      "price": 21990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 1000 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 1000,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "8-pin"
+      }
+    },
+    {
+      "id": "be-quiet-pure-power-12-m-650",
+      "category": "POWER_SUPPLY",
+      "name": "Pure Power 12 M 650W",
+      "brand": "be quiet!",
+      "price": 11990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 650 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 650,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "12VHPWR"
+      }
+    },
+    {
+      "id": "be-quiet-pure-power-12-m-750",
+      "category": "POWER_SUPPLY",
+      "name": "Pure Power 12 M 750W",
+      "brand": "be quiet!",
+      "price": 13990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 750 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 750,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "12VHPWR"
+      }
+    },
+    {
+      "id": "be-quiet-straight-power-12-850",
+      "category": "POWER_SUPPLY",
+      "name": "Straight Power 12 850W",
+      "brand": "be quiet!",
+      "price": 19990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 850 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 850,
+        "certificate": "80+ Platinum",
+        "gpuPowerConnectors": "12VHPWR"
+      }
+    },
+    {
+      "id": "seasonic-focus-gx-750",
+      "category": "POWER_SUPPLY",
+      "name": "FOCUS GX-750",
+      "brand": "Seasonic",
+      "price": 13990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 750 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 750,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "8-pin"
+      }
+    },
+    {
+      "id": "seasonic-focus-gx-850",
+      "category": "POWER_SUPPLY",
+      "name": "FOCUS GX-850",
+      "brand": "Seasonic",
+      "price": 15990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 850 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 850,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "8-pin"
+      }
+    },
+    {
+      "id": "seasonic-vertex-gx-1000",
+      "category": "POWER_SUPPLY",
+      "name": "VERTEX GX-1000",
+      "brand": "Seasonic",
+      "price": 23990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 1000 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 1000,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "12VHPWR"
+      }
+    },
+    {
+      "id": "msi-mag-a650bn",
+      "category": "POWER_SUPPLY",
+      "name": "MAG A650BN",
+      "brand": "MSI",
+      "price": 6990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 650 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 650,
+        "certificate": "80+ Bronze",
+        "gpuPowerConnectors": "8-pin"
+      }
+    },
+    {
+      "id": "msi-mag-a750gl-pcie5",
+      "category": "POWER_SUPPLY",
+      "name": "MAG A750GL PCIE5",
+      "brand": "MSI",
+      "price": 11990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 750 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 750,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "12VHPWR"
+      }
+    },
+    {
+      "id": "msi-mag-a850gl-pcie5",
+      "category": "POWER_SUPPLY",
+      "name": "MAG A850GL PCIE5",
+      "brand": "MSI",
+      "price": 14990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 850 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 850,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "12VHPWR"
+      }
+    },
+    {
+      "id": "thermaltake-toughpower-gf-a3-850",
+      "category": "POWER_SUPPLY",
+      "name": "Toughpower GF A3 850W",
+      "brand": "Thermaltake",
+      "price": 15990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 850 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 850,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "12VHPWR"
+      }
+    },
+    {
+      "id": "thermaltake-toughpower-gf3-1000",
+      "category": "POWER_SUPPLY",
+      "name": "Toughpower GF3 1000W",
+      "brand": "Thermaltake",
+      "price": 21990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 1000 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 1000,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "12VHPWR"
+      }
+    },
+    {
+      "id": "super-flower-leadex-vii-850",
+      "category": "POWER_SUPPLY",
+      "name": "LEADEX VII Gold 850W",
+      "brand": "Super Flower",
+      "price": 16990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 850 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 850,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "12VHPWR"
+      }
+    },
+    {
+      "id": "super-flower-leadex-vii-1000",
+      "category": "POWER_SUPPLY",
+      "name": "LEADEX VII Gold 1000W",
+      "brand": "Super Flower",
+      "price": 20990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 1000 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 1000,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "12VHPWR"
+      }
+    },
+    {
+      "id": "fsp-hydro-g-pro-750",
+      "category": "POWER_SUPPLY",
+      "name": "HYDRO G PRO 750W",
+      "brand": "FSP",
+      "price": 12990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 750 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 750,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "8-pin"
+      }
+    },
+    {
+      "id": "fsp-hydro-ti-pro-1000",
+      "category": "POWER_SUPPLY",
+      "name": "HYDRO Ti PRO 1000W",
+      "brand": "FSP",
+      "price": 24990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 1000 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 1000,
+        "certificate": "80+ Titanium",
+        "gpuPowerConnectors": "12VHPWR"
+      }
+    },
+    {
+      "id": "cooler-master-mwe-gold-650",
+      "category": "POWER_SUPPLY",
+      "name": "MWE Gold 650 V2",
+      "brand": "Cooler Master",
+      "price": 9990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 650 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 650,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "8-pin"
+      }
+    },
+    {
+      "id": "cooler-master-mwe-gold-850-v2",
+      "category": "POWER_SUPPLY",
+      "name": "MWE Gold 850 V2",
+      "brand": "Cooler Master",
+      "price": 13990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 850 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 850,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "8-pin"
+      }
+    },
+    {
+      "id": "lian-li-edge-850",
+      "category": "POWER_SUPPLY",
+      "name": "EDGE 850",
+      "brand": "Lian Li",
+      "price": 17990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 850 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 850,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "12VHPWR"
+      }
+    },
+    {
+      "id": "nzxt-c850-gold",
+      "category": "POWER_SUPPLY",
+      "name": "C850 Gold",
+      "brand": "NZXT",
+      "price": 15990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 850 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 850,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "12VHPWR"
+      }
+    },
+    {
+      "id": "nzxt-c1000-gold",
+      "category": "POWER_SUPPLY",
+      "name": "C1000 Gold",
+      "brand": "NZXT",
+      "price": 19990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 1000 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 1000,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "12VHPWR"
+      }
+    },
+    {
+      "id": "asus-tuf-gaming-1200g",
+      "category": "POWER_SUPPLY",
+      "name": "TUF Gaming 1200G",
+      "brand": "ASUS",
+      "price": 25990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Блок питания на 1200 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 1200,
+        "certificate": "80+ Gold",
+        "gpuPowerConnectors": "12VHPWR"
+      }
+    },
+    {
+      "id": "nzxt-h5-flow",
+      "category": "PC_CASE",
+      "name": "H5 Flow",
+      "brand": "NZXT",
+      "price": 8990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 365 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 365,
+        "maxCoolerHeightMm": 165
+      }
+    },
+    {
+      "id": "nzxt-h7-flow",
+      "category": "PC_CASE",
+      "name": "H7 Flow",
+      "brand": "NZXT",
+      "price": 12990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 400 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 400,
+        "maxCoolerHeightMm": 185
+      }
+    },
+    {
+      "id": "fractal-north",
+      "category": "PC_CASE",
+      "name": "North",
+      "brand": "Fractal Design",
+      "price": 14990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 355 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 355,
+        "maxCoolerHeightMm": 170
+      }
+    },
+    {
+      "id": "fractal-north-xl",
+      "category": "PC_CASE",
+      "name": "North XL",
+      "brand": "Fractal Design",
+      "price": 21990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус E-ATX с поддержкой видеокарт длиной до 413 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "E-ATX",
+        "maxGpuLengthMm": 413,
+        "maxCoolerHeightMm": 185
+      }
+    },
+    {
+      "id": "fractal-pop-air",
+      "category": "PC_CASE",
+      "name": "Pop Air",
+      "brand": "Fractal Design",
+      "price": 9990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 405 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 405,
+        "maxCoolerHeightMm": 170
+      }
+    },
+    {
+      "id": "fractal-meshify-2",
+      "category": "PC_CASE",
+      "name": "Meshify 2",
+      "brand": "Fractal Design",
+      "price": 16990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 467 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 467,
+        "maxCoolerHeightMm": 185
+      }
+    },
+    {
+      "id": "lian-li-lancool-216",
+      "category": "PC_CASE",
+      "name": "LANCOOL 216",
+      "brand": "Lian Li",
+      "price": 12990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 392 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 392,
+        "maxCoolerHeightMm": 180
+      }
+    },
+    {
+      "id": "lian-li-lancool-iii",
+      "category": "PC_CASE",
+      "name": "LANCOOL III",
+      "brand": "Lian Li",
+      "price": 16990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус E-ATX с поддержкой видеокарт длиной до 435 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "E-ATX",
+        "maxGpuLengthMm": 435,
+        "maxCoolerHeightMm": 187
+      }
+    },
+    {
+      "id": "lian-li-o11d-evo",
+      "category": "PC_CASE",
+      "name": "O11 Dynamic EVO",
+      "brand": "Lian Li",
+      "price": 19990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус E-ATX с поддержкой видеокарт длиной до 426 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "E-ATX",
+        "maxGpuLengthMm": 426,
+        "maxCoolerHeightMm": 167
+      }
+    },
+    {
+      "id": "corsair-4000d-airflow",
+      "category": "PC_CASE",
+      "name": "4000D Airflow",
+      "brand": "Corsair",
+      "price": 9990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 360 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 360,
+        "maxCoolerHeightMm": 170
+      }
+    },
+    {
+      "id": "corsair-5000d-airflow",
+      "category": "PC_CASE",
+      "name": "5000D Airflow",
+      "brand": "Corsair",
+      "price": 13990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 420 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 420,
+        "maxCoolerHeightMm": 170
+      }
+    },
+    {
+      "id": "corsair-2000d-airflow",
+      "category": "PC_CASE",
+      "name": "2000D Airflow",
+      "brand": "Corsair",
+      "price": 11990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Корпус ITX с поддержкой видеокарт длиной до 365 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ITX",
+        "maxGpuLengthMm": 365,
+        "maxCoolerHeightMm": 145
+      }
+    },
+    {
+      "id": "be-quiet-pure-base-500dx",
+      "category": "PC_CASE",
+      "name": "Pure Base 500DX",
+      "brand": "be quiet!",
+      "price": 11990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 369 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 369,
+        "maxCoolerHeightMm": 190
+      }
+    },
+    {
+      "id": "be-quiet-pure-base-500",
+      "category": "PC_CASE",
+      "name": "Pure Base 500",
+      "brand": "be quiet!",
+      "price": 9990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 369 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 369,
+        "maxCoolerHeightMm": 190
+      }
+    },
+    {
+      "id": "be-quiet-shadow-base-800",
+      "category": "PC_CASE",
+      "name": "Shadow Base 800",
+      "brand": "be quiet!",
+      "price": 17990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус E-ATX с поддержкой видеокарт длиной до 430 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "E-ATX",
+        "maxGpuLengthMm": 430,
+        "maxCoolerHeightMm": 180
+      }
+    },
+    {
+      "id": "cooler-master-nr200p",
+      "category": "PC_CASE",
+      "name": "MasterBox NR200P",
+      "brand": "Cooler Master",
+      "price": 9990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 0,
+      "description": "Корпус ITX с поддержкой видеокарт длиной до 330 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ITX",
+        "maxGpuLengthMm": 330,
+        "maxCoolerHeightMm": 155
+      }
+    },
+    {
+      "id": "cooler-master-cm-694",
+      "category": "PC_CASE",
+      "name": "MasterBox CM694",
+      "brand": "Cooler Master",
+      "price": 14990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 350 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 350,
+        "maxCoolerHeightMm": 171
+      }
+    },
+    {
+      "id": "cooler-master-q300l-v2",
+      "category": "PC_CASE",
+      "name": "MasterBox Q300L V2",
+      "brand": "Cooler Master",
+      "price": 6990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 0,
+      "description": "Корпус mATX с поддержкой видеокарт длиной до 360 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "mATX",
+        "maxGpuLengthMm": 360,
+        "maxCoolerHeightMm": 159
+      }
+    },
+    {
+      "id": "asus-prime-ap201",
+      "category": "PC_CASE",
+      "name": "Prime AP201",
+      "brand": "ASUS",
+      "price": 9990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Корпус mATX с поддержкой видеокарт длиной до 338 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "mATX",
+        "maxGpuLengthMm": 338,
+        "maxCoolerHeightMm": 170
+      }
+    },
+    {
+      "id": "asus-tuf-gt501",
+      "category": "PC_CASE",
+      "name": "TUF Gaming GT501",
+      "brand": "ASUS",
+      "price": 16990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 420 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 420,
+        "maxCoolerHeightMm": 180
+      }
+    },
+    {
+      "id": "phanteks-nv5",
+      "category": "PC_CASE",
+      "name": "NV5",
+      "brand": "Phanteks",
+      "price": 15990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 440 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 440,
+        "maxCoolerHeightMm": 185
+      }
+    },
+    {
+      "id": "phanteks-eclipse-g360a",
+      "category": "PC_CASE",
+      "name": "Eclipse G360A",
+      "brand": "Phanteks",
+      "price": 9990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 400 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 400,
+        "maxCoolerHeightMm": 162
+      }
+    },
+    {
+      "id": "thermaltake-divider-170-tg",
+      "category": "PC_CASE",
+      "name": "Divider 170 TG",
+      "brand": "Thermaltake",
+      "price": 8990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 0,
+      "description": "Корпус mATX с поддержкой видеокарт длиной до 345 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "mATX",
+        "maxGpuLengthMm": 345,
+        "maxCoolerHeightMm": 155
+      }
+    },
+    {
+      "id": "hyte-y60",
+      "category": "PC_CASE",
+      "name": "Y60",
+      "brand": "HYTE",
+      "price": 19990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 375 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 375,
+        "maxCoolerHeightMm": 160
+      }
+    },
+    {
+      "id": "ssupd-meshroom-s",
+      "category": "PC_CASE",
+      "name": "Meshroom S",
+      "brand": "SSUPD",
+      "price": 13990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 0,
+      "description": "Корпус ITX с поддержкой видеокарт длиной до 336 мм.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ITX",
+        "maxGpuLengthMm": 336,
+        "maxCoolerHeightMm": 158
+      }
+    },
+    {
+      "id": "amd-wraith-prism",
+      "category": "COOLER",
+      "name": "Wraith Prism",
+      "brand": "AMD",
+      "price": 4990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 105 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 105,
+        "supportedSockets": [
+          "AM4",
+          "AM5"
+        ],
+        "heightMm": 155
+      }
+    },
+    {
+      "id": "thermalright-peerless-assassin-120",
+      "category": "COOLER",
+      "name": "Peerless Assassin 120 SE",
+      "brand": "Thermalright",
+      "price": 4990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 245 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 245,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 160
+      }
+    },
+    {
+      "id": "thermalright-phantom-spirit-120",
+      "category": "COOLER",
+      "name": "Phantom Spirit 120 SE",
+      "brand": "Thermalright",
+      "price": 5490,
+      "performanceLevel": 5,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 260 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 260,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 160
+      }
+    },
+    {
+      "id": "noctua-nh-d15",
+      "category": "COOLER",
+      "name": "NH-D15",
+      "brand": "Noctua",
+      "price": 9990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 250 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 250,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 160
+      }
+    },
+    {
+      "id": "noctua-nh-u12a",
+      "category": "COOLER",
+      "name": "NH-U12A",
+      "brand": "Noctua",
+      "price": 11990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 220 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 220,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 160
+      }
+    },
+    {
+      "id": "be-quiet-dark-rock-5",
+      "category": "COOLER",
+      "name": "Dark Rock 5",
+      "brand": "be quiet!",
+      "price": 8990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 210 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 210,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 160
+      }
+    },
+    {
+      "id": "be-quiet-dark-rock-pro-5",
+      "category": "COOLER",
+      "name": "Dark Rock Pro 5",
+      "brand": "be quiet!",
+      "price": 12990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 270 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 270,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 160
+      }
+    },
+    {
+      "id": "be-quiet-pure-rock-2",
+      "category": "COOLER",
+      "name": "Pure Rock 2",
+      "brand": "be quiet!",
+      "price": 4990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 150 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 150,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 155
+      }
+    },
+    {
+      "id": "cooler-master-hyper-212-halo",
+      "category": "COOLER",
+      "name": "Hyper 212 Halo",
+      "brand": "Cooler Master",
+      "price": 3990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 180 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 180,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 155
+      }
+    },
+    {
+      "id": "cooler-master-hyper-212-black",
+      "category": "COOLER",
+      "name": "Hyper 212 Black",
+      "brand": "Cooler Master",
+      "price": 3490,
+      "performanceLevel": 3,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 150 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 150,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 155
+      }
+    },
+    {
+      "id": "arctic-freezer-36",
+      "category": "COOLER",
+      "name": "Freezer 36",
+      "brand": "Arctic",
+      "price": 3990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 200 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 200,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 155
+      }
+    },
+    {
+      "id": "arctic-freezer-36-a-rgb",
+      "category": "COOLER",
+      "name": "Freezer 36 A-RGB",
+      "brand": "Arctic",
+      "price": 4990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 200 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 200,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 155
+      }
+    },
+    {
+      "id": "arctic-liquid-freezer-iii-240",
+      "category": "COOLER",
+      "name": "Liquid Freezer III 240",
+      "brand": "Arctic",
+      "price": 9990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 5,
+      "description": "Система охлаждения для процессоров с тепловыделением до 300 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 300,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 0
+      }
+    },
+    {
+      "id": "arctic-liquid-freezer-iii-360",
+      "category": "COOLER",
+      "name": "Liquid Freezer III 360",
+      "brand": "Arctic",
+      "price": 13990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 5,
+      "description": "Система охлаждения для процессоров с тепловыделением до 350 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 350,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 0
+      }
+    },
+    {
+      "id": "corsair-h100i-rgb",
+      "category": "COOLER",
+      "name": "iCUE H100i RGB Elite",
+      "brand": "Corsair",
+      "price": 13990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 5,
+      "description": "Система охлаждения для процессоров с тепловыделением до 280 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 280,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 0
+      }
+    },
+    {
+      "id": "corsair-h150i-elite",
+      "category": "COOLER",
+      "name": "iCUE H150i Elite Capellix XT",
+      "brand": "Corsair",
+      "price": 17990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 5,
+      "description": "Система охлаждения для процессоров с тепловыделением до 350 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 350,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 0
+      }
+    },
+    {
+      "id": "nzxt-kraken-240",
+      "category": "COOLER",
+      "name": "Kraken 240",
+      "brand": "NZXT",
+      "price": 13990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 5,
+      "description": "Система охлаждения для процессоров с тепловыделением до 280 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 280,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 0
+      }
+    },
+    {
+      "id": "nzxt-kraken-360",
+      "category": "COOLER",
+      "name": "Kraken 360",
+      "brand": "NZXT",
+      "price": 18990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 5,
+      "description": "Система охлаждения для процессоров с тепловыделением до 350 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 350,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 0
+      }
+    },
+    {
+      "id": "deepcool-ak400",
+      "category": "COOLER",
+      "name": "AK400",
+      "brand": "DeepCool",
+      "price": 2990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 180 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 180,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 155
+      }
+    },
+    {
+      "id": "deepcool-ak620",
+      "category": "COOLER",
+      "name": "AK620",
+      "brand": "DeepCool",
+      "price": 5990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 260 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 260,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 160
+      }
+    },
+    {
+      "id": "deepcool-assassin-iv",
+      "category": "COOLER",
+      "name": "ASSASSIN IV",
+      "brand": "DeepCool",
+      "price": 9990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 280 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 280,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 160
+      }
+    },
+    {
+      "id": "id-cooling-se-224-xts",
+      "category": "COOLER",
+      "name": "SE-224-XTS",
+      "brand": "ID-COOLING",
+      "price": 2490,
+      "performanceLevel": 3,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 180 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 180,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 155
+      }
+    },
+    {
+      "id": "scythe-fuma-3",
+      "category": "COOLER",
+      "name": "Fuma 3",
+      "brand": "Scythe",
+      "price": 6990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 220 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 220,
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 160
+      }
+    },
+    {
+      "id": "noctua-nh-l9a-am5",
+      "category": "COOLER",
+      "name": "NH-L9a-AM5",
+      "brand": "Noctua",
+      "price": 5490,
+      "performanceLevel": 3,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 95 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 95,
+        "supportedSockets": [
+          "AM5"
+        ],
+        "heightMm": 37
+      }
+    },
+    {
+      "id": "noctua-nh-l9i-17xx",
+      "category": "COOLER",
+      "name": "NH-L9i-17xx",
+      "brand": "Noctua",
+      "price": 5490,
+      "performanceLevel": 3,
+      "powerConsumptionW": 5,
+      "description": "Кулер для процессоров с тепловыделением до 95 Вт.",
+      "tags": [
+        "реальная модель",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "maxTdpWatts": 95,
+        "supportedSockets": [
+          "LGA1700",
+          "LGA1851"
+        ],
+        "heightMm": 37
+      }
+    },
+    {
+      "id": "i3-10100",
+      "category": "CPU",
+      "name": "Intel Core i3-10100",
+      "brand": "Intel",
+      "price": 6990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 65,
+      "description": "4-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1200",
+        "cores": 4,
+        "threads": 8
+      }
+    },
+    {
+      "id": "r3-3100",
+      "category": "CPU",
+      "name": "AMD Ryzen 3 3100",
+      "brand": "AMD",
+      "price": 7490,
+      "performanceLevel": 1,
+      "powerConsumptionW": 65,
+      "description": "4-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM4",
+        "cores": 4,
+        "threads": 8
+      }
+    },
+    {
+      "id": "i3-10100f",
+      "category": "CPU",
+      "name": "Intel Core i3-10100F",
+      "brand": "Intel",
+      "price": 5990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 65,
+      "description": "4-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1200",
+        "cores": 4,
+        "threads": 8
+      }
+    },
+    {
+      "id": "r3-3300x",
+      "category": "CPU",
+      "name": "AMD Ryzen 3 3300X",
+      "brand": "AMD",
+      "price": 8990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 65,
+      "description": "4-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM4",
+        "cores": 4,
+        "threads": 8
+      }
+    },
+    {
+      "id": "i3-12100f",
+      "category": "CPU",
+      "name": "Intel Core i3-12100F",
+      "brand": "Intel",
+      "price": 8990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 58,
+      "description": "4-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1700",
+        "cores": 4,
+        "threads": 8
+      }
+    },
+    {
+      "id": "r5-1600af",
+      "category": "CPU",
+      "name": "AMD Ryzen 5 1600 AF",
+      "brand": "AMD",
+      "price": 7990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 65,
+      "description": "6-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM4",
+        "cores": 6,
+        "threads": 12
+      }
+    },
+    {
+      "id": "r5-2600",
+      "category": "CPU",
+      "name": "AMD Ryzen 5 2600",
+      "brand": "AMD",
+      "price": 8990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 65,
+      "description": "6-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM4",
+        "cores": 6,
+        "threads": 12
+      }
+    },
+    {
+      "id": "i5-10400f",
+      "category": "CPU",
+      "name": "Intel Core i5-10400F",
+      "brand": "Intel",
+      "price": 9990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 65,
+      "description": "6-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1200",
+        "cores": 6,
+        "threads": 12
+      }
+    },
+    {
+      "id": "r5-5500",
+      "category": "CPU",
+      "name": "AMD Ryzen 5 5500",
+      "brand": "AMD",
+      "price": 9990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 65,
+      "description": "6-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM4",
+        "cores": 6,
+        "threads": 12
+      }
+    },
+    {
+      "id": "r5-3600",
+      "category": "CPU",
+      "name": "AMD Ryzen 5 3600",
+      "brand": "AMD",
+      "price": 9490,
+      "performanceLevel": 2,
+      "powerConsumptionW": 65,
+      "description": "6-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM4",
+        "cores": 6,
+        "threads": 12
+      }
+    },
+    {
+      "id": "r5-5600",
+      "category": "CPU",
+      "name": "AMD Ryzen 5 5600",
+      "brand": "AMD",
+      "price": 11990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 65,
+      "description": "6-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM4",
+        "cores": 6,
+        "threads": 12
+      }
+    },
+    {
+      "id": "r5-5600x",
+      "category": "CPU",
+      "name": "AMD Ryzen 5 5600X",
+      "brand": "AMD",
+      "price": 12990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 65,
+      "description": "6-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM4",
+        "cores": 6,
+        "threads": 12
+      }
+    },
+    {
+      "id": "i5-12400f",
+      "category": "CPU",
+      "name": "Intel Core i5-12400F",
+      "brand": "Intel",
+      "price": 13990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 65,
+      "description": "6-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1700",
+        "cores": 6,
+        "threads": 12
+      }
+    },
+    {
+      "id": "i5-12400",
+      "category": "CPU",
+      "name": "Intel Core i5-12400",
+      "brand": "Intel",
+      "price": 14990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 65,
+      "description": "6-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1700",
+        "cores": 6,
+        "threads": 12
+      }
+    },
+    {
+      "id": "r7-5700x",
+      "category": "CPU",
+      "name": "AMD Ryzen 7 5700X",
+      "brand": "AMD",
+      "price": 15990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 65,
+      "description": "8-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM4",
+        "cores": 8,
+        "threads": 16
+      }
+    },
+    {
+      "id": "i5-12600kf",
+      "category": "CPU",
+      "name": "Intel Core i5-12600KF",
+      "brand": "Intel",
+      "price": 17990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 125,
+      "description": "10-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1700",
+        "cores": 10,
+        "threads": 16
+      }
+    },
+    {
+      "id": "r7-5800x",
+      "category": "CPU",
+      "name": "AMD Ryzen 7 5800X",
+      "brand": "AMD",
+      "price": 18990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 105,
+      "description": "8-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM4",
+        "cores": 8,
+        "threads": 16
+      }
+    },
+    {
+      "id": "r7-5800x3d",
+      "category": "CPU",
+      "name": "AMD Ryzen 7 5800X3D",
+      "brand": "AMD",
+      "price": 19990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 105,
+      "description": "8-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM4",
+        "cores": 8,
+        "threads": 16
+      }
+    },
+    {
+      "id": "i5-13400f",
+      "category": "CPU",
+      "name": "Intel Core i5-13400F",
+      "brand": "Intel",
+      "price": 17990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 65,
+      "description": "10-ядерный процессор для игр и повседневных задач.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1700",
+        "cores": 10,
+        "threads": 16
+      }
+    },
+    {
+      "id": "a520m-s2h",
+      "category": "MOTHERBOARD",
+      "name": "A520M S2H",
+      "brand": "Gigabyte",
+      "price": 6990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 55,
+      "description": "Материнская плата mATX для платформы AM4 с памятью DDR4.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM4",
+        "chipset": "A520",
+        "formFactor": "mATX",
+        "memoryType": "DDR4"
+      }
+    },
+    {
+      "id": "a520m-a-pro",
+      "category": "MOTHERBOARD",
+      "name": "A520M-A PRO",
+      "brand": "MSI",
+      "price": 7490,
+      "performanceLevel": 1,
+      "powerConsumptionW": 55,
+      "description": "Материнская плата mATX для платформы AM4 с памятью DDR4.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM4",
+        "chipset": "A520",
+        "formFactor": "mATX",
+        "memoryType": "DDR4"
+      }
+    },
+    {
+      "id": "prime-a520m-k",
+      "category": "MOTHERBOARD",
+      "name": "PRIME A520M-K",
+      "brand": "ASUS",
+      "price": 7490,
+      "performanceLevel": 1,
+      "powerConsumptionW": 55,
+      "description": "Материнская плата mATX для платформы AM4 с памятью DDR4.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM4",
+        "chipset": "A520",
+        "formFactor": "mATX",
+        "memoryType": "DDR4"
+      }
+    },
+    {
+      "id": "a520m-hdv",
+      "category": "MOTHERBOARD",
+      "name": "A520M-HDV",
+      "brand": "ASRock",
+      "price": 6990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 55,
+      "description": "Материнская плата mATX для платформы AM4 с памятью DDR4.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM4",
+        "chipset": "A520",
+        "formFactor": "mATX",
+        "memoryType": "DDR4"
+      }
+    },
+    {
+      "id": "h610m-h",
+      "category": "MOTHERBOARD",
+      "name": "H610M H",
+      "brand": "Gigabyte",
+      "price": 7990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 55,
+      "description": "Материнская плата mATX для платформы LGA1700 с памятью DDR4.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1700",
+        "chipset": "H610",
+        "formFactor": "mATX",
+        "memoryType": "DDR4"
+      }
+    },
+    {
+      "id": "pro-h610m-e",
+      "category": "MOTHERBOARD",
+      "name": "PRO H610M-E DDR4",
+      "brand": "MSI",
+      "price": 7990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 55,
+      "description": "Материнская плата mATX для платформы LGA1700 с памятью DDR4.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1700",
+        "chipset": "H610",
+        "formFactor": "mATX",
+        "memoryType": "DDR4"
+      }
+    },
+    {
+      "id": "h610m-hvs",
+      "category": "MOTHERBOARD",
+      "name": "H610M-HVS",
+      "brand": "ASRock",
+      "price": 7490,
+      "performanceLevel": 1,
+      "powerConsumptionW": 55,
+      "description": "Материнская плата mATX для платформы LGA1700 с памятью DDR4.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1700",
+        "chipset": "H610",
+        "formFactor": "mATX",
+        "memoryType": "DDR4"
+      }
+    },
+    {
+      "id": "prime-h610m-k",
+      "category": "MOTHERBOARD",
+      "name": "PRIME H610M-K D4",
+      "brand": "ASUS",
+      "price": 8490,
+      "performanceLevel": 1,
+      "powerConsumptionW": 55,
+      "description": "Материнская плата mATX для платформы LGA1700 с памятью DDR4.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "LGA1700",
+        "chipset": "H610",
+        "formFactor": "mATX",
+        "memoryType": "DDR4"
+      }
+    },
+    {
+      "id": "b450m-ds3h",
+      "category": "MOTHERBOARD",
+      "name": "B450M DS3H",
+      "brand": "Gigabyte",
+      "price": 8990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 55,
+      "description": "Материнская плата mATX для платформы AM4 с памятью DDR4.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "socket": "AM4",
+        "chipset": "B450",
+        "formFactor": "mATX",
+        "memoryType": "DDR4"
+      }
+    },
+    {
+      "id": "gtx-1650",
+      "category": "GPU",
+      "name": "GeForce GTX 1650",
+      "brand": "NVIDIA",
+      "price": 8990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 75,
+      "description": "Видеокарта с 4 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 4,
+        "lengthMm": 229,
+        "interfaceType": "PCIe 3.0"
+      }
+    },
+    {
+      "id": "rx-570",
+      "category": "GPU",
+      "name": "Radeon RX 570",
+      "brand": "AMD",
+      "price": 7990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 150,
+      "description": "Видеокарта с 4 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 4,
+        "lengthMm": 230,
+        "interfaceType": "PCIe 3.0"
+      }
+    },
+    {
+      "id": "rx-580",
+      "category": "GPU",
+      "name": "Radeon RX 580",
+      "brand": "AMD",
+      "price": 8990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 185,
+      "description": "Видеокарта с 8 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 8,
+        "lengthMm": 242,
+        "interfaceType": "PCIe 3.0"
+      }
+    },
+    {
+      "id": "gtx-1060-6",
+      "category": "GPU",
+      "name": "GeForce GTX 1060 6GB",
+      "brand": "NVIDIA",
+      "price": 9990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 120,
+      "description": "Видеокарта с 6 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 6,
+        "lengthMm": 250,
+        "interfaceType": "PCIe 3.0"
+      }
+    },
+    {
+      "id": "gtx-1650-super",
+      "category": "GPU",
+      "name": "GeForce GTX 1650 SUPER",
+      "brand": "NVIDIA",
+      "price": 9990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 100,
+      "description": "Видеокарта с 4 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 4,
+        "lengthMm": 229,
+        "interfaceType": "PCIe 3.0"
+      }
+    },
+    {
+      "id": "rx-5500-xt",
+      "category": "GPU",
+      "name": "Radeon RX 5500 XT",
+      "brand": "AMD",
+      "price": 9490,
+      "performanceLevel": 2,
+      "powerConsumptionW": 130,
+      "description": "Видеокарта с 8 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 8,
+        "lengthMm": 230,
+        "interfaceType": "PCIe 4.0"
+      }
+    },
+    {
+      "id": "gtx-1660",
+      "category": "GPU",
+      "name": "GeForce GTX 1660",
+      "brand": "NVIDIA",
+      "price": 9990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 120,
+      "description": "Видеокарта с 6 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 6,
+        "lengthMm": 229,
+        "interfaceType": "PCIe 3.0"
+      }
+    },
+    {
+      "id": "gtx-1660-super",
+      "category": "GPU",
+      "name": "GeForce GTX 1660 SUPER",
+      "brand": "NVIDIA",
+      "price": 9990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 125,
+      "description": "Видеокарта с 6 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 6,
+        "lengthMm": 229,
+        "interfaceType": "PCIe 3.0"
+      }
+    },
+    {
+      "id": "rx-5600-xt",
+      "category": "GPU",
+      "name": "Radeon RX 5600 XT",
+      "brand": "AMD",
+      "price": 9990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 150,
+      "description": "Видеокарта с 6 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 6,
+        "lengthMm": 230,
+        "interfaceType": "PCIe 4.0"
+      }
+    },
+    {
+      "id": "arc-a380",
+      "category": "GPU",
+      "name": "Intel Arc A380",
+      "brand": "Intel",
+      "price": 8990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 75,
+      "description": "Видеокарта с 6 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 6,
+        "lengthMm": 222,
+        "interfaceType": "PCIe 4.0"
+      }
+    },
+    {
+      "id": "rtx-2060",
+      "category": "GPU",
+      "name": "GeForce RTX 2060",
+      "brand": "NVIDIA",
+      "price": 12990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 160,
+      "description": "Видеокарта с 6 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 6,
+        "lengthMm": 230,
+        "interfaceType": "PCIe 3.0"
+      }
+    },
+    {
+      "id": "rtx-2060-super",
+      "category": "GPU",
+      "name": "GeForce RTX 2060 SUPER",
+      "brand": "NVIDIA",
+      "price": 15990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 175,
+      "description": "Видеокарта с 8 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 8,
+        "lengthMm": 270,
+        "interfaceType": "PCIe 3.0"
+      }
+    },
+    {
+      "id": "rx-6600",
+      "category": "GPU",
+      "name": "Radeon RX 6600",
+      "brand": "AMD",
+      "price": 16990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 132,
+      "description": "Видеокарта с 8 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 8,
+        "lengthMm": 237,
+        "interfaceType": "PCIe 4.0"
+      }
+    },
+    {
+      "id": "rtx-3060",
+      "category": "GPU",
+      "name": "GeForce RTX 3060 12GB",
+      "brand": "NVIDIA",
+      "price": 17990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 170,
+      "description": "Видеокарта с 12 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 12,
+        "lengthMm": 242,
+        "interfaceType": "PCIe 4.0"
+      }
+    },
+    {
+      "id": "rtx-3060-ti",
+      "category": "GPU",
+      "name": "GeForce RTX 3060 Ti",
+      "brand": "NVIDIA",
+      "price": 19990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 200,
+      "description": "Видеокарта с 8 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 8,
+        "lengthMm": 242,
+        "interfaceType": "PCIe 4.0"
+      }
+    },
+    {
+      "id": "rx-6700-xt",
+      "category": "GPU",
+      "name": "Radeon RX 6700 XT",
+      "brand": "AMD",
+      "price": 19990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 230,
+      "description": "Видеокарта с 12 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 12,
+        "lengthMm": 267,
+        "interfaceType": "PCIe 4.0"
+      }
+    },
+    {
+      "id": "rx-6650-xt",
+      "category": "GPU",
+      "name": "Radeon RX 6650 XT",
+      "brand": "AMD",
+      "price": 18990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 176,
+      "description": "Видеокарта с 8 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 8,
+        "lengthMm": 240,
+        "interfaceType": "PCIe 4.0"
+      }
+    },
+    {
+      "id": "arc-a770",
+      "category": "GPU",
+      "name": "Intel Arc A770",
+      "brand": "Intel",
+      "price": 19990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 225,
+      "description": "Видеокарта с 16 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 16,
+        "lengthMm": 280,
+        "interfaceType": "PCIe 4.0"
+      }
+    },
+    {
+      "id": "viper-ddr5-64",
+      "category": "RAM",
+      "name": "Viper Venom DDR5 64GB 6000",
+      "brand": "Patriot",
+      "price": 19990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 10,
+      "description": "Комплект DDR5 на 64 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 64,
+        "memoryFrequencyMhz": 6000
+      }
+    },
+    {
+      "id": "fury-ddr5-64-6000",
+      "category": "RAM",
+      "name": "FURY Beast DDR5 64GB 6000",
+      "brand": "Kingston",
+      "price": 19990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 10,
+      "description": "Комплект DDR5 на 64 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 64,
+        "memoryFrequencyMhz": 6000
+      }
+    },
+    {
+      "id": "ripjaws-ddr5-64-6000",
+      "category": "RAM",
+      "name": "Ripjaws S5 DDR5 64GB 6000",
+      "brand": "G.Skill",
+      "price": 19990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 10,
+      "description": "Комплект DDR5 на 64 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 64,
+        "memoryFrequencyMhz": 6000
+      }
+    },
+    {
+      "id": "tforce-ddr5-64",
+      "category": "RAM",
+      "name": "T-Force Delta RGB DDR5 64GB 6000",
+      "brand": "TeamGroup",
+      "price": 19990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 10,
+      "description": "Комплект DDR5 на 64 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 64,
+        "memoryFrequencyMhz": 6000
+      }
+    },
+    {
+      "id": "dominator-ddr5-64",
+      "category": "RAM",
+      "name": "Dominator Platinum DDR5 64GB 6000",
+      "brand": "Corsair",
+      "price": 22990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 12,
+      "description": "Комплект DDR5 на 64 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 64,
+        "memoryFrequencyMhz": 6000
+      }
+    },
+    {
+      "id": "trident-ddr5-64-7200",
+      "category": "RAM",
+      "name": "Trident Z5 DDR5 64GB 7200",
+      "brand": "G.Skill",
+      "price": 24990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 12,
+      "description": "Комплект DDR5 на 64 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 64,
+        "memoryFrequencyMhz": 7200
+      }
+    },
+    {
+      "id": "fury-ddr5-96",
+      "category": "RAM",
+      "name": "FURY Beast DDR5 96GB 6000",
+      "brand": "Kingston",
+      "price": 26990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 12,
+      "description": "Комплект DDR5 на 96 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 96,
+        "memoryFrequencyMhz": 6000
+      }
+    },
+    {
+      "id": "vengeance-ddr5-96-6400",
+      "category": "RAM",
+      "name": "Vengeance DDR5 96GB 6400",
+      "brand": "Corsair",
+      "price": 27990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 12,
+      "description": "Комплект DDR5 на 96 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 96,
+        "memoryFrequencyMhz": 6400
+      }
+    },
+    {
+      "id": "trident-ddr5-128-6400",
+      "category": "RAM",
+      "name": "Trident Z5 DDR5 128GB 6400",
+      "brand": "G.Skill",
+      "price": 42990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 16,
+      "description": "Комплект DDR5 на 128 ГБ для производительных ПК.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "memoryType": "DDR5",
+        "memoryCapacityGb": 128,
+        "memoryFrequencyMhz": 6400
+      }
+    },
+    {
+      "id": "lexar-nm620-1tb",
+      "category": "STORAGE",
+      "name": "NM620 1TB",
+      "brand": "Lexar",
+      "price": 10990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 6,
+      "description": "Накопитель NVMe PCIe 3.0 на 1 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "capacityGb": 1000,
+        "interfaceType": "NVMe PCIe 3.0"
+      }
+    },
+    {
+      "id": "wd-sn580-2tb",
+      "category": "STORAGE",
+      "name": "Blue SN580 2TB",
+      "brand": "WD",
+      "price": 15990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 7,
+      "description": "Накопитель NVMe PCIe 4.0 на 2 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "capacityGb": 2000,
+        "interfaceType": "NVMe PCIe 4.0"
+      }
+    },
+    {
+      "id": "990-evo-2tb",
+      "category": "STORAGE",
+      "name": "990 EVO 2TB",
+      "brand": "Samsung",
+      "price": 18990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 7,
+      "description": "Накопитель NVMe PCIe 5.0 на 2 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "capacityGb": 2000,
+        "interfaceType": "NVMe PCIe 5.0"
+      }
+    },
+    {
+      "id": "t500-2tb",
+      "category": "STORAGE",
+      "name": "T500 2TB",
+      "brand": "Crucial",
+      "price": 19990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 7,
+      "description": "Накопитель NVMe PCIe 4.0 на 2 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "capacityGb": 2000,
+        "interfaceType": "NVMe PCIe 4.0"
+      }
+    },
+    {
+      "id": "rocket-4-plus-2tb",
+      "category": "STORAGE",
+      "name": "Rocket 4 Plus 2TB",
+      "brand": "Sabrent",
+      "price": 22990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 8,
+      "description": "Накопитель NVMe PCIe 4.0 на 2 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "capacityGb": 2000,
+        "interfaceType": "NVMe PCIe 4.0"
+      }
+    },
+    {
+      "id": "firecuda-530-4tb",
+      "category": "STORAGE",
+      "name": "FireCuda 530 4TB",
+      "brand": "Seagate",
+      "price": 39990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 8,
+      "description": "Накопитель NVMe PCIe 4.0 на 4 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "capacityGb": 4000,
+        "interfaceType": "NVMe PCIe 4.0"
+      }
+    },
+    {
+      "id": "sn850x-8tb",
+      "category": "STORAGE",
+      "name": "WD_BLACK SN850X 8TB",
+      "brand": "WD",
+      "price": 59990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 8,
+      "description": "Накопитель NVMe PCIe 4.0 на 8 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "capacityGb": 8000,
+        "interfaceType": "NVMe PCIe 4.0"
+      }
+    },
+    {
+      "id": "vx-plus-500",
+      "category": "POWER_SUPPLY",
+      "name": "VX Plus 500W",
+      "brand": "AeroCool",
+      "price": 3990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 500,
+      "description": "Блок питания на 500 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 500,
+        "certificate": "80 PLUS"
+      }
+    },
+    {
+      "id": "pk500d",
+      "category": "POWER_SUPPLY",
+      "name": "PK500D",
+      "brand": "DeepCool",
+      "price": 4490,
+      "performanceLevel": 1,
+      "powerConsumptionW": 500,
+      "description": "Блок питания на 500 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 500,
+        "certificate": "80 PLUS Bronze"
+      }
+    },
+    {
+      "id": "x2-550",
+      "category": "POWER_SUPPLY",
+      "name": "X2 550",
+      "brand": "Cougar",
+      "price": 4990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 550,
+      "description": "Блок питания на 550 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 550,
+        "certificate": "80 PLUS"
+      }
+    },
+    {
+      "id": "system-power-9-500",
+      "category": "POWER_SUPPLY",
+      "name": "System Power 9 500W",
+      "brand": "be quiet!",
+      "price": 5990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 500,
+      "description": "Блок питания на 500 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 500,
+        "certificate": "80 PLUS Bronze"
+      }
+    },
+    {
+      "id": "core-bbs-600s",
+      "category": "POWER_SUPPLY",
+      "name": "Core BBS-600S",
+      "brand": "Chieftec",
+      "price": 5990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 600,
+      "description": "Блок питания на 600 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 600,
+        "certificate": "80 PLUS Bronze"
+      }
+    },
+    {
+      "id": "smart-bm2-550",
+      "category": "POWER_SUPPLY",
+      "name": "Smart BM2 550W",
+      "brand": "Thermaltake",
+      "price": 6490,
+      "performanceLevel": 1,
+      "powerConsumptionW": 550,
+      "description": "Блок питания на 550 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 550,
+        "certificate": "80 PLUS Bronze"
+      }
+    },
+    {
+      "id": "hydro-k-pro-600",
+      "category": "POWER_SUPPLY",
+      "name": "Hydro K Pro 600W",
+      "brand": "FSP",
+      "price": 6490,
+      "performanceLevel": 1,
+      "powerConsumptionW": 600,
+      "description": "Блок питания на 600 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 600,
+        "certificate": "80 PLUS Bronze"
+      }
+    },
+    {
+      "id": "mwe-bronze-650",
+      "category": "POWER_SUPPLY",
+      "name": "MWE Bronze 650",
+      "brand": "Cooler Master",
+      "price": 6990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 650,
+      "description": "Блок питания на 650 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 650,
+        "certificate": "80 PLUS Bronze"
+      }
+    },
+    {
+      "id": "focus-gx-1000-new",
+      "category": "POWER_SUPPLY",
+      "name": "FOCUS GX-1000",
+      "brand": "Seasonic",
+      "price": 21990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 1000,
+      "description": "Блок питания на 1000 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 1000,
+        "certificate": "80 PLUS Gold"
+      }
+    },
+    {
+      "id": "dark-power-13-1000",
+      "category": "POWER_SUPPLY",
+      "name": "Dark Power 13 1000W",
+      "brand": "be quiet!",
+      "price": 24990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 1000,
+      "description": "Блок питания на 1000 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 1000,
+        "certificate": "80 PLUS Titanium"
+      }
+    },
+    {
+      "id": "hx1000i",
+      "category": "POWER_SUPPLY",
+      "name": "HX1000i",
+      "brand": "Corsair",
+      "price": 25990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 1000,
+      "description": "Блок питания на 1000 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 1000,
+        "certificate": "80 PLUS Platinum"
+      }
+    },
+    {
+      "id": "prime-tx-1000",
+      "category": "POWER_SUPPLY",
+      "name": "PRIME TX-1000",
+      "brand": "Seasonic",
+      "price": 29990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 1000,
+      "description": "Блок питания на 1000 Вт для стабильной работы производительной системы.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "powerWatts": 1000,
+        "certificate": "80 PLUS Titanium"
+      }
+    },
+    {
+      "id": "matrexx-30",
+      "category": "PC_CASE",
+      "name": "MATREXX 30",
+      "brand": "DeepCool",
+      "price": 5990,
+      "performanceLevel": 1,
+      "powerConsumptionW": 0,
+      "description": "Корпус mATX с поддержкой видеокарт длиной до 250 мм.",
+      "tags": [
+        "реальная модель",
+        "бюджетный",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "mATX",
+        "maxGpuLengthMm": 250,
+        "maxCoolerHeightMm": 165
+      }
+    },
+    {
+      "id": "define-7",
+      "category": "PC_CASE",
+      "name": "Define 7",
+      "brand": "Fractal Design",
+      "price": 22990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 467 мм.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 467,
+        "maxCoolerHeightMm": 185
+      }
+    },
+    {
+      "id": "dark-base-701",
+      "category": "PC_CASE",
+      "name": "Dark Base 701",
+      "brand": "be quiet!",
+      "price": 24990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус ATX с поддержкой видеокарт длиной до 430 мм.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "ATX",
+        "maxGpuLengthMm": 430,
+        "maxCoolerHeightMm": 185
+      }
+    },
+    {
+      "id": "o11d-xl",
+      "category": "PC_CASE",
+      "name": "O11 Dynamic XL",
+      "brand": "Lian Li",
+      "price": 26990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус E-ATX с поддержкой видеокарт длиной до 500 мм.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "E-ATX",
+        "maxGpuLengthMm": 500,
+        "maxCoolerHeightMm": 167
+      }
+    },
+    {
+      "id": "7000d-airflow",
+      "category": "PC_CASE",
+      "name": "7000D Airflow",
+      "brand": "Corsair",
+      "price": 27990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус E-ATX с поддержкой видеокарт длиной до 450 мм.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "E-ATX",
+        "maxGpuLengthMm": 450,
+        "maxCoolerHeightMm": 190
+      }
+    },
+    {
+      "id": "enthoo-pro-2",
+      "category": "PC_CASE",
+      "name": "Enthoo Pro 2",
+      "brand": "Phanteks",
+      "price": 29990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус E-ATX с поддержкой видеокарт длиной до 503 мм.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "E-ATX",
+        "maxGpuLengthMm": 503,
+        "maxCoolerHeightMm": 195
+      }
+    },
+    {
+      "id": "tower-900",
+      "category": "PC_CASE",
+      "name": "The Tower 900",
+      "brand": "Thermaltake",
+      "price": 39990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус E-ATX с поддержкой видеокарт длиной до 480 мм.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "E-ATX",
+        "maxGpuLengthMm": 480,
+        "maxCoolerHeightMm": 260
+      }
+    },
+    {
+      "id": "rog-hyperion",
+      "category": "PC_CASE",
+      "name": "ROG Hyperion GR701",
+      "brand": "ASUS",
+      "price": 49990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус E-ATX с поддержкой видеокарт длиной до 460 мм.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "E-ATX",
+        "maxGpuLengthMm": 460,
+        "maxCoolerHeightMm": 190
+      }
+    },
+    {
+      "id": "v3000-plus",
+      "category": "PC_CASE",
+      "name": "V3000 Plus",
+      "brand": "Lian Li",
+      "price": 59990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус E-ATX с поддержкой видеокарт длиной до 589 мм.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "E-ATX",
+        "maxGpuLengthMm": 589,
+        "maxCoolerHeightMm": 198
+      }
+    },
+    {
+      "id": "haf-700-evo",
+      "category": "PC_CASE",
+      "name": "HAF 700 EVO",
+      "brand": "Cooler Master",
+      "price": 44990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 0,
+      "description": "Корпус E-ATX с поддержкой видеокарт длиной до 490 мм.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "formFactor": "E-ATX",
+        "maxGpuLengthMm": 490,
+        "maxCoolerHeightMm": 166
+      }
+    },
+    {
+      "id": "is-55",
+      "category": "COOLER",
+      "name": "IS-55",
+      "brand": "ID-Cooling",
+      "price": 3990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 95,
+      "description": "Система охлаждения для процессоров с тепловыделением до 95 Вт.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 95
+      }
+    },
+    {
+      "id": "freezer-34",
+      "category": "COOLER",
+      "name": "Freezer 34",
+      "brand": "Arctic",
+      "price": 4490,
+      "performanceLevel": 2,
+      "powerConsumptionW": 150,
+      "description": "Система охлаждения для процессоров с тепловыделением до 150 Вт.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1200",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 150
+      }
+    },
+    {
+      "id": "assassin-x-120",
+      "category": "COOLER",
+      "name": "Assassin X 120",
+      "brand": "Thermalright",
+      "price": 2990,
+      "performanceLevel": 2,
+      "powerConsumptionW": 150,
+      "description": "Система охлаждения для процессоров с тепловыделением до 150 Вт.",
+      "tags": [
+        "реальная модель",
+        "средний",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1200",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 150
+      }
+    },
+    {
+      "id": "nh-d15-g2",
+      "category": "COOLER",
+      "name": "NH-D15 G2",
+      "brand": "Noctua",
+      "price": 15990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 250,
+      "description": "Система охлаждения для процессоров с тепловыделением до 250 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 250
+      }
+    },
+    {
+      "id": "lf-iii-420",
+      "category": "COOLER",
+      "name": "Liquid Freezer III 420",
+      "brand": "Arctic",
+      "price": 15990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 300,
+      "description": "Система охлаждения для процессоров с тепловыделением до 300 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 300
+      }
+    },
+    {
+      "id": "h170i",
+      "category": "COOLER",
+      "name": "iCUE H170i Elite Capellix XT",
+      "brand": "Corsair",
+      "price": 22990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 300,
+      "description": "Система охлаждения для процессоров с тепловыделением до 300 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 300
+      }
+    },
+    {
+      "id": "kraken-elite-360",
+      "category": "COOLER",
+      "name": "Kraken Elite 360",
+      "brand": "NZXT",
+      "price": 26990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 300,
+      "description": "Система охлаждения для процессоров с тепловыделением до 300 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 300
+      }
+    },
+    {
+      "id": "ryujin-iii-360",
+      "category": "COOLER",
+      "name": "ROG RYUO III 360",
+      "brand": "ASUS",
+      "price": 24990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 300,
+      "description": "Система охлаждения для процессоров с тепловыделением до 300 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 300
+      }
+    },
+    {
+      "id": "silent-loop-3-360",
+      "category": "COOLER",
+      "name": "Silent Loop 3 360",
+      "brand": "be quiet!",
+      "price": 19990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 280,
+      "description": "Система охлаждения для процессоров с тепловыделением до 280 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 280
+      }
+    },
+    {
+      "id": "lt720",
+      "category": "COOLER",
+      "name": "LT720",
+      "brand": "DeepCool",
+      "price": 14990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 280,
+      "description": "Система охлаждения для процессоров с тепловыделением до 280 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 280
+      }
+    },
+    {
+      "id": "ml360-core",
+      "category": "COOLER",
+      "name": "MasterLiquid 360L Core",
+      "brand": "Cooler Master",
+      "price": 10990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 250,
+      "description": "Система охлаждения для процессоров с тепловыделением до 250 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 250
+      }
+    },
+    {
+      "id": "liquid-freezer-ii-360",
+      "category": "COOLER",
+      "name": "Liquid Freezer II 360",
+      "brand": "Arctic",
+      "price": 13990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 280,
+      "description": "Система охлаждения для процессоров с тепловыделением до 280 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 280
+      }
+    },
+    {
+      "id": "nh-u12a",
+      "category": "COOLER",
+      "name": "NH-U12A",
+      "brand": "Noctua",
+      "price": 11990,
+      "performanceLevel": 4,
+      "powerConsumptionW": 185,
+      "description": "Система охлаждения для процессоров с тепловыделением до 185 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 185
+      }
+    },
+    {
+      "id": "liquid-x-new",
+      "category": "COOLER",
+      "name": "iCUE H150i Elite LCD XT",
+      "brand": "Corsair",
+      "price": 24990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 300,
+      "description": "Система охлаждения для процессоров с тепловыделением до 300 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 300
+      }
+    },
+    {
+      "id": "nh-d15s",
+      "category": "COOLER",
+      "name": "NH-D15S",
+      "brand": "Noctua",
+      "price": 20990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 300,
+      "description": "Система охлаждения для процессоров с тепловыделением до 300 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 300
+      }
+    },
+    {
+      "id": "dark-rock-elite",
+      "category": "COOLER",
+      "name": "Dark Rock Elite",
+      "brand": "be quiet!",
+      "price": 21990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 300,
+      "description": "Система охлаждения для процессоров с тепловыделением до 300 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 300
+      }
+    },
+    {
+      "id": "kraken-elite-280",
+      "category": "COOLER",
+      "name": "Kraken Elite 280",
+      "brand": "NZXT",
+      "price": 21990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 300,
+      "description": "Система охлаждения для процессоров с тепловыделением до 300 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 300
+      }
+    },
+    {
+      "id": "h150i-lcd-xt",
+      "category": "COOLER",
+      "name": "iCUE H150i Elite LCD XT",
+      "brand": "Corsair",
+      "price": 24990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 300,
+      "description": "Система охлаждения для процессоров с тепловыделением до 300 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 300
+      }
+    },
+    {
+      "id": "floe-ultra-360",
+      "category": "COOLER",
+      "name": "Floe Ultra 360",
+      "brand": "Thermaltake",
+      "price": 22990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 300,
+      "description": "Система охлаждения для процессоров с тепловыделением до 300 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 300
+      }
+    },
+    {
+      "id": "ls720-se",
+      "category": "COOLER",
+      "name": "LS720 SE",
+      "brand": "DeepCool",
+      "price": 20990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 300,
+      "description": "Система охлаждения для процессоров с тепловыделением до 300 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 300
+      }
+    },
+    {
+      "id": "nh-u14s",
+      "category": "COOLER",
+      "name": "NH-U14S",
+      "brand": "Noctua",
+      "price": 20990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 300,
+      "description": "Система охлаждения для процессоров с тепловыделением до 300 Вт.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "supportedSockets": [
+          "AM4",
+          "AM5",
+          "LGA1700"
+        ],
+        "maxTdpWatts": 300
+      }
+    },
+    {
+      "id": "rx-7600-entry",
+      "category": "GPU",
+      "name": "Radeon RX 7600",
+      "brand": "AMD",
+      "price": 19990,
+      "performanceLevel": 3,
+      "powerConsumptionW": 165,
+      "description": "Видеокарта с 8 ГБ памяти для игр и графики.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "videoMemoryGb": 8,
+        "lengthMm": 204,
+        "interfaceType": "PCIe 4.0"
+      }
+    },
+    {
+      "id": "sn850x-4tb-entry",
+      "category": "STORAGE",
+      "name": "WD_BLACK SN850X 4TB",
+      "brand": "WD",
+      "price": 32990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 8,
+      "description": "Накопитель NVMe PCIe 4.0 на 4 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "capacityGb": 4000,
+        "interfaceType": "NVMe PCIe 4.0"
+      }
+    },
+    {
+      "id": "990-pro-4tb-entry",
+      "category": "STORAGE",
+      "name": "990 PRO 4TB",
+      "brand": "Samsung",
+      "price": 35990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 8,
+      "description": "Накопитель NVMe PCIe 4.0 на 4 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "capacityGb": 4000,
+        "interfaceType": "NVMe PCIe 4.0"
+      }
+    },
+    {
+      "id": "t705-2tb-entry",
+      "category": "STORAGE",
+      "name": "T705 2TB",
+      "brand": "Crucial",
+      "price": 29990,
+      "performanceLevel": 5,
+      "powerConsumptionW": 8,
+      "description": "Накопитель NVMe PCIe 5.0 на 2 ТБ для быстрой загрузки системы и приложений.",
+      "tags": [
+        "реальная модель",
+        "высокий",
+        "совместимость проверяется"
+      ],
+      "specifications": {
+        "capacityGb": 2000,
+        "interfaceType": "NVMe PCIe 5.0"
+      }
+    }
+  ]
+}

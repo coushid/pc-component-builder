@@ -1,0 +1,36 @@
+# Android / Gradle
+.gradle/
+**/.gradle/
+.idea/
+**/.idea/
+build/
+**/build/
+local.properties
+**/local.properties
+*.iml
+.externalNativeBuild/
+.cxx/
+.kotlin/
+
+# Local generated files and debug captures
+/*.apk
+/*.aab
+/*.png
+/*.jpg
+/*.jpeg
+/*.log
+/*.txt
+/.tmp_*
+/_restore_tmp/
+
+# Internal working documentation and AI-related notes
+/docs/
+/AI_PROJECT_MAP.md
+/DYNAMIC_QUESTIONNAIRE_AI_IMPLEMENTATION_PLAN.md
+/OPTIMIZATION_IMPLEMENTATION_PLAN.md
+/QUESTIONNAIRE_IMPLEMENTATION_PLAN.md
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
