@@ -1,36 +1,50 @@
-# Android / Gradle
+# Gradle and build output
 .gradle/
-**/.gradle/
-.idea/
-**/.idea/
 build/
 **/build/
-local.properties
-**/local.properties
-*.iml
+.kotlin/
 .externalNativeBuild/
 .cxx/
-.kotlin/
+*.hprof
+captures/
 
-# Local generated files and debug captures
-/*.apk
-/*.aab
-/*.png
-/*.jpg
-/*.jpeg
-/*.log
-/*.txt
-/.tmp_*
-/_restore_tmp/
+# Android Studio and IntelliJ IDEA
+.idea/
+**/.idea/
+*.iml
+*.ipr
+*.iws
+.navigation/
+.fleet/
 
-# Internal working documentation and AI-related notes
-/docs/
-/AI_PROJECT_MAP.md
-/DYNAMIC_QUESTIONNAIRE_AI_IMPLEMENTATION_PLAN.md
-/OPTIMIZATION_IMPLEMENTATION_PLAN.md
-/QUESTIONNAIRE_IMPLEMENTATION_PLAN.md
+# Local configuration and secrets
+local.properties
+**/local.properties
+.env
+.env.*
+keystore.properties
+*.jks
+*.keystore
+*.p12
+*.pem
+secrets.properties
 
-# OS / IDE
+# Generated packages
+*.apk
+*.aab
+*.aar
+release/
+out/
+
+# Logs, temporary files and local debug captures
+*.log
+*.tmp
+*.bak
+*.orig
+*.rej
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# IDE and OS metadata
 .vscode/
