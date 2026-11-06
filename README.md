@@ -4,6 +4,7 @@
 [![Android](https://img.shields.io/badge/Android-API%2024%2B-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Download APK](https://img.shields.io/badge/Download-APK-3DDC84?logo=android&logoColor=white)](https://github.com/coushid/pc-component-builder/releases/latest)
 
 **Русский** | [English](#english)
 
@@ -110,6 +111,9 @@ PCcomponent/
 git clone https://github.com/coushid/pc-component-builder.git
 cd PCcomponent
 ```
+
+Готовый debug APK доступен на странице
+[релизов](https://github.com/coushid/pc-component-builder/releases/latest).
 
 Откройте папку проекта в Android Studio, дождитесь синхронизации Gradle и
 запустите конфигурацию `app` на эмуляторе или устройстве.
@@ -271,6 +275,9 @@ PCcomponent/
 git clone https://github.com/coushid/pc-component-builder.git
 cd PCcomponent
 ```
+
+The ready to install debug APK is available on the
+[releases page](https://github.com/coushid/pc-component-builder/releases/latest).
 
 Open the project in Android Studio, wait for Gradle sync, and run the `app`
 configuration on an emulator or device.
